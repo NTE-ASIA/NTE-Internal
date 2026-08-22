@@ -1,0 +1,57 @@
+===== [Region 001] Chocolate Volcano (14) =====
+Chocolate Volcano, 92963.086, 149246.47, -18900.54
+Chocolate Volcano, 95496, 150477, 2344
+Chocolate Volcano, 96881.445, 154030.67, -17339.852
+Chocolate Volcano, 101151, 131961, -16637
+Chocolate Volcano, 101815.945, 120169.09, -13587.789
+Chocolate Volcano, 108165.22, 158457.33, -1186
+Chocolate Volcano, 109920, 117946, -13812
+Chocolate Volcano, 110935, 136520, -11298
+Chocolate Volcano, 111102, 139913, -9549
+Chocolate Volcano, 112078, 141422, -10603
+Chocolate Volcano, 112487, 122275, -12116
+Chocolate Volcano, 112582.11, 154018.64, 273
+Chocolate Volcano, 114285.586, 151277.86, -6667
+Chocolate Volcano, 122203.516, 162945.3, -3550.0342
+
+===== [Region 002] Milk Ice Mountain (12) =====
+Milk Ice Mountain, -346568.25, 99637.016, -5944.3135
+Milk Ice Mountain, -343120, 114564.195, -6380.7344
+Milk Ice Mountain, -342393.97, 151995.28, 4650.947
+Milk Ice Mountain, -342265.8, 119410.8, -11055.809
+Milk Ice Mountain, -338873.84, 144769.75, 254.11514
+Milk Ice Mountain, -338783.25, 130482.01, -10818.599
+Milk Ice Mountain, -336360.66, 124953.55, -7173.16
+Milk Ice Mountain, -330378.72, 158362.56, 7703.3594
+Milk Ice Mountain, -327248.1, 136128.58, -5013.4604
+Milk Ice Mountain, -325618.2, 145049.27, 410.09552
+Milk Ice Mountain, -322907.3, 160764.72, 4109.7427
+Milk Ice Mountain, -317376.75, 166619.5, 7359.5034
+
+===== [Region 003] Amber Syrup Lake (12) =====
+Amber Syrup Lake, 114660.92, -133739, 2249
+Amber Syrup Lake, 114919.77, -123809.96, 3326.1504
+Amber Syrup Lake, 121999.016, -106350.94, 2313.8477
+Amber Syrup Lake, 122908.02, -146688.42, 2388.7202
+Amber Syrup Lake, 131085.83, -102623.414, 3071.1794
+Amber Syrup Lake, 131792.3, -150195.44, 3570.736
+Amber Syrup Lake, 135024.12, -97039.21, 4727.8203
+Amber Syrup Lake, 145340, -104600, 4422.711
+Amber Syrup Lake, 147301.06, -127457.32, 3038.1824
+Amber Syrup Lake, 155478.28, -143617.42, -1265.5653
+Amber Syrup Lake, 171098.1, -127495.71, 6057.8545
+Amber Syrup Lake, 173594.77, -125762.805, 18211.682
+
+===== [Region 004] Crimson Castle (9) =====
+Crimson Castle, -165613.88, -152401.47, 8388.961
+Crimson Castle, -155886.31, -171252.95, 13615.784
+Crimson Castle, -151826.3, -141899.8, 8877.869
+Crimson Castle, -146272.17, -136948.08, 9462.277
+Crimson Castle, -145850.34, -144527.47, 10059.88
+Crimson Castle, -140799.77, -153253.84, 9464.553
+Crimson Castle, -137092.61, -171255.19, 17414.94
+Crimson Castle, -117152.19, -143741.28, 37068.996
+Crimson Castle, -113105.086, -138318.83, 59151.5
+
+===== [Region 005] Camp (1) =====
+Camp, 737.0927, -3039.073, -29297
