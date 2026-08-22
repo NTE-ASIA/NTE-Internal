@@ -1,0 +1,62 @@
+===== [AreaID 001] Bridge Crossings (10) =====
+Bridge Crossings, -99906.0, 166601.0, 4246.0
+Bridge Crossings, -96307.99, 155090.22, 5301.0
+Bridge Crossings, -120485.0, 168079.0, 7111.0
+Bridge Crossings, -122173.77, 158307.5, 8191.0
+Bridge Crossings, -132943.0, 174791.0, 6710.0
+Bridge Crossings, -86681.02, 158663.33, 3659.0
+Bridge Crossings, -142659.0, 165560.0, 6942.0
+Bridge Crossings, -115685.42, 154151.72, 5831.0
+Bridge Crossings, -125689.0, 187518.0, 7177.0
+Bridge Crossings, -89954.64, 131951.66, 9570.0
+
+===== [AreaID 002] Unheard Shores (3) =====
+Unheard Shores, -149937.56, 220863.34, 11702.0
+Unheard Shores, -135214.0, 206577.0, 10319.0
+Unheard Shores, -192910.1, 215582.47, 17929.143
+
+===== [AreaID 003] Illusion Town (10) =====
+Illusion Town, -148020.2, 139229.45, 7121.0
+Illusion Town, -169903.0, 110007.0, 7231.0
+Illusion Town, -147308.0, 96467.0, 7310.0
+Illusion Town, -116812.875, 59466.055, 7436.0
+Illusion Town, -94916.21, 90675.97, 6904.682
+Illusion Town, -167644.0, 131398.0, 7277.0
+Illusion Town, -123402.0, 70095.0, 7593.0
+Illusion Town, -138418.0, 126473.0, 6776.0
+Illusion Town, -176555.0, 123155.0, 7162.0
+Illusion Town, -123696.03, 50454.66, 7853.0
+
+===== [AreaID 004] Miguel District (10) =====
+Miguel District, -77241.0, 47615.0, 7802.0
+Miguel District, 11717.0, 49511.0, 8321.0
+Miguel District, -46504.0, -11601.0, 7912.0
+Miguel District, -39386.0, 23213.0, 7841.0
+Miguel District, -16777.0, 49486.0, 7820.0
+Miguel District, 23159.0, 21712.0, 7632.0
+Miguel District, -82269.0, 4730.0, 8476.0
+Miguel District, -75502.0, 42722.0, 7787.0
+Miguel District, -34123.0, 33068.0, 7780.0
+Miguel District, -21429.545, 6299.1294, 8930.0
+
+===== [AreaID 005] New Herland District (10) =====
+New Herland District, -65723.61, 84555.83, 6221.76
+New Herland District, 27299.0, 118534.0, 7177.0
+New Herland District, 20564.0, 58829.0, 6355.0
+New Herland District, -10990.0, 119511.0, 6960.0
+New Herland District, -13795.0, 92652.0, 6411.0
+New Herland District, 33384.0, 84548.0, 6391.0
+New Herland District, -18896.0, 76105.0, 6514.0
+New Herland District, 43857.0, 118715.0, 7084.0
+New Herland District, -32252.0, 144049.0, 4841.0
+New Herland District, -7137.19, 104409.69, 7223.0
+
+===== [AreaID 006] Duskmoor (4) =====
+Duskmoor, -288607.06, 116813.01, 2565.0
+Duskmoor, -209783.0, -171884.0, 13906.0
+Duskmoor, -311884.22, -130940.0, 15471.0
+Duskmoor, -160849.0, -204896.0, 17151.0
+
+===== [AreaID 009] Sunni Island (2) =====
+Sunni Island, -257283.0, 353277.0, 3055.0
+Sunni Island, -246629.0, 362286.0, 7937.0

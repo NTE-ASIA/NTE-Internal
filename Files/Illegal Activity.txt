@@ -1,0 +1,105 @@
+===== [AreaID 001] Bridge Crossings (18) =====
+Bridge Crossings, -91629.875, 182846.95, 3498.0059
+Bridge Crossings, -132435.61, 181353.86, 7001.568
+Bridge Crossings, -101549.984, 184320.27, 3723.329
+Bridge Crossings, -138423.2, 164717.1, 6685.9214
+Bridge Crossings, -125660.59, 156639.56, 7094.1753
+Bridge Crossings, -149340.17, 170695.75, 8360.325
+Bridge Crossings, -124356.414, 147887.48, 6959.438
+Bridge Crossings, -142297.6, 183677.56, 6993.403
+Bridge Crossings, -84745.914, 123142.77, 4962.702
+Bridge Crossings, -121217.02, 170210, 7014.1904
+Bridge Crossings, -141979.27, 163252.17, 7027.8403
+Bridge Crossings, -96009.47, 174738.16, 5034.263
+Bridge Crossings, -116085.75, 151381.34, 7383.1895
+Bridge Crossings, -81268.12, 151086.72, 4331.2744
+Bridge Crossings, -120483.06, 127300.7, 10535.241
+Bridge Crossings, -94504.92, 181576.34, 4546.7227
+Bridge Crossings, -121553.27, 183605.81, 6609.461
+Bridge Crossings, -145851.12, 172711.5, 8331.706
+
+===== [AreaID 002] Unheard Shores (7) =====
+Unheard Shores, -147626.25, 240641.33, 2921.863
+Unheard Shores, -155508.52, 219410.64, 11228.385
+Unheard Shores, -175803.98, 202486.16, 11114.74
+Unheard Shores, -179643.98, 224641.86, 7838.4697
+Unheard Shores, -207492.06, 223865.47, 5405.864
+Unheard Shores, -152231.72, 215630.06, 10270.379
+Unheard Shores, -196469.58, 208843.88, 16073.885
+
+===== [AreaID 003] Illusion Town (26) =====
+Illusion Town, -166991, 103092, 6710
+Illusion Town, -192695, 131026, 7174
+Illusion Town, -142772.6, 121915.914, 7136.4766
+Illusion Town, -137339, 80901, 8282
+Illusion Town, -129580, 93319, 7929.973
+Illusion Town, -113247, 104338, 6507
+Illusion Town, -167182, 120375, 7110
+Illusion Town, -131567.33, 67891.11, 7446.05
+Illusion Town, -168605.03, 164169.08, 5874
+Illusion Town, -144918, 114603, 7094
+Illusion Town, -173185, 91495, 7665
+Illusion Town, -191488, 147352, 5619
+Illusion Town, -159009, 152170, 6318
+Illusion Town, -90798, 70427, 6169.4077
+Illusion Town, -109262, 63553, 7403
+Illusion Town, -186742, 116305, 7146.5737
+Illusion Town, -200120, 112224, 7262
+Illusion Town, -111800, 75552, 7135
+Illusion Town, -169814, 137533, 6672.0317
+Illusion Town, -125559, 47655, 8074
+Illusion Town, -178790, 112017, 7132.3115
+Illusion Town, -131578, 140519, 6741.8726
+Illusion Town, -98068, 96203.14, 6808.536
+Illusion Town, -159541, 128986, 6737.8257
+Illusion Town, -91523.55, 112368.59, 4342.3916
+Illusion Town, -124691, 84252, 7096.7563
+
+===== [AreaID 004] Miguel District (20) =====
+Miguel District, -58295.344, 39555.676, 7975.8433
+Miguel District, -2228.5898, 21716.44, 7967.8286
+Miguel District, 53513.9, 24332.107, 6902.7734
+Miguel District, -9573.091, 23424.45, 8114.457
+Miguel District, 52127.195, -1123.9396, 7829.493
+Miguel District, -108639, 37524.234, 9063.833
+Miguel District, -39384.56, 18321.664, 8132.513
+Miguel District, -14838.568, 29254.941, 7695.761
+Miguel District, -82537.97, 33175.484, 7715.786
+Miguel District, -60625.047, 17767.832, 7715.786
+Miguel District, -38361.77, 23600.053, 8076.58
+Miguel District, 50769.48, 8887.131, 7563.185
+Miguel District, -54923.254, 20014.594, 8065.877
+Miguel District, -93931.33, -16614.023, 15554.644
+Miguel District, -61164.086, 24496.516, 7704.711
+Miguel District, 5806.032, 40110.45, 7872.706
+Miguel District, 11115.586, 29385.482, 7611.717
+Miguel District, -52774.516, 51491.938, 8201.783
+Miguel District, -41021.266, -3322.2537, 7670.6816
+Miguel District, -1226.4164, 15316.891, 8922.567
+
+===== [AreaID 005] New Herland District (25) =====
+New Herland District, -40433.08, 161734.77, 2292
+New Herland District, 14482, 79308, 6290
+New Herland District, -23021, 117465, 6328
+New Herland District, 43786, 82261, 6094
+New Herland District, 9099, 170256, 4633
+New Herland District, -46327, 94875, 2888
+New Herland District, -37741, 136019, 2856
+New Herland District, -5751, 63760, 6354.8438
+New Herland District, -74206, 62468, 6355
+New Herland District, 8876, 107506, 5758.111
+New Herland District, -30609, 57864, 6812
+New Herland District, 63730, 120450, 6053
+New Herland District, -25563, 149041, 3983
+New Herland District, -1097, 98039, 6647.3364
+New Herland District, -57756, 80301, 3104
+New Herland District, 54132, 110680, 12380
+New Herland District, 4803, 143023, 4486
+New Herland District, -13475, 87741, 6333
+New Herland District, 37188.36, 128452.47, 7013.3374
+New Herland District, -45220, 79895, 2888
+New Herland District, 28654, 94540, 7159
+New Herland District, 42334, 100895, 9932.729
+New Herland District, -8348.11, 126257.86, 6350.923
+New Herland District, -43029, 110503, 4924
+New Herland District, 25894, 142696, 3171

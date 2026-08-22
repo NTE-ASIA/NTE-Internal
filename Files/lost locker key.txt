@@ -1,0 +1,219 @@
+===== [AreaID 001] Bridge Crossings (46) =====
+Bridge Crossings, -81648.1, 175409.94, 3548.7954
+Bridge Crossings, -101081.27, 168198.84, 4966.747
+Bridge Crossings, -93568.14, 180932.89, 4373.781
+Bridge Crossings, -71231.0, 149661.0, 2832.9287
+Bridge Crossings, -85908.625, 158925.75, 3583.6438
+Bridge Crossings, -119666.2, 168388.36, 6661.141
+Bridge Crossings, -70985.05, 161178.48, 2371.2163
+Bridge Crossings, -131482.02, 165959.16, 6711.77
+Bridge Crossings, -112424.92, 165029.23, 5857.023
+Bridge Crossings, -133745.8, 176556.17, 6711.446
+Bridge Crossings, -149125.28, 166137.86, 8018.775
+Bridge Crossings, -126206.91, 171439.2, 6679.127
+Bridge Crossings, -132251.58, 158620.53, 6671.298
+Bridge Crossings, -108641.58, 181874.88, 4747.121
+Bridge Crossings, -125822.49, 187444.05, 6676.0513
+Bridge Crossings, -90249.68, 162794.52, 4099.279
+Bridge Crossings, -133507.58, 170034.31, 6670.252
+Bridge Crossings, -138004.03, 163537.72, 6914.7656
+Bridge Crossings, -132987.94, 154259.58, 6795.6978
+Bridge Crossings, -78304.87, 164504.7, 3256.9163
+Bridge Crossings, -108981.14, 170341.19, 6552.9795
+Bridge Crossings, -84236.31, 163076.56, 3376.2136
+Bridge Crossings, -134537.38, 160332.86, 6669.728
+Bridge Crossings, -73056.25, 146628.5, 3853.4739
+Bridge Crossings, -90761.55, 168700.88, 4224.981
+Bridge Crossings, -89270.484, 173010.02, 3727.1262
+Bridge Crossings, -125915.8, 176951.61, 7387.9263
+Bridge Crossings, -103476.55, 155799.28, 5819.0615
+Bridge Crossings, -77937.95, 160903.31, 3225.1562
+Bridge Crossings, -112426.42, 168427.33, 5675.561
+Bridge Crossings, -76951.91, 145476.62, 3875.2935
+Bridge Crossings, -68572.83, 142027.62, 2444.487
+Bridge Crossings, -131054.01, 180065.89, 6917.1777
+Bridge Crossings, -105595.46, 162414.45, 6106.638
+Bridge Crossings, -108971.11, 159728.38, 5891.067
+Bridge Crossings, -92414.016, 171942.03, 4437.441
+Bridge Crossings, -80683.68, 171349.27, 3426.6484
+Bridge Crossings, -99751.58, 179129.81, 4559.5747
+Bridge Crossings, -73064.51, 142467.34, 3752.0603
+Bridge Crossings, -145292.0, 170493.34, 8166.599
+Bridge Crossings, -91577.55, 165939.61, 4144.971
+Bridge Crossings, -113856.914, 173460.0, 6394.723
+Bridge Crossings, -123123.92, 167551.89, 6726.808
+Bridge Crossings, -102919.59, 169545.92, 5888.1675
+Bridge Crossings, -127186.64, 182031.44, 6705.8623
+Bridge Crossings, -142490.52, 163523.23, 6913.961
+
+===== [AreaID 003] Illusion Town (39) =====
+Illusion Town, -167063.61, 135253.88, 6860.1836
+Illusion Town, -167281.72, 112240.73, 7171.063
+Illusion Town, -151913.12, 93131.48, 7155.901
+Illusion Town, -112297.38, 59656.453, 7451.6694
+Illusion Town, -115140.24, 65771.8, 7384.383
+Illusion Town, -172143.0, 103377.02, 7154.087
+Illusion Town, -123117.83, 70208.43, 7490.232
+Illusion Town, -153184.25, 148965.67, 6626.865
+Illusion Town, -164598.58, 134996.23, 6890.5767
+Illusion Town, -109588.43, 67766.484, 7258.3486
+Illusion Town, -98501.3, 59942.637, 6926.701
+Illusion Town, -175856.5, 152109.84, 5693.7104
+Illusion Town, -159953.92, 88117.87, 7615.6484
+Illusion Town, -145233.48, 147740.56, 6753.916
+Illusion Town, -69440.03, 75342.32, 3686.048
+Illusion Town, -153633.0, 114751.88, 8444.825
+Illusion Town, -107795.36, 64203.664, 7500.669
+Illusion Town, -96392.13, 75645.984, 6736.443
+Illusion Town, -125090.945, 61974.145, 7482.6846
+Illusion Town, -189788.97, 118442.01, 7154.454
+Illusion Town, -115576.85, 66590.625, 7383.761
+Illusion Town, -158175.4, 116022.79, 7189.9365
+Illusion Town, -145444.92, 140155.05, 6769.6045
+Illusion Town, -176216.08, 117442.17, 7184.4307
+Illusion Town, -174583.19, 126416.83, 7155.645
+Illusion Town, -170185.52, 100398.4, 7154.0938
+Illusion Town, -173025.33, 109077.23, 7155.809
+Illusion Town, -168509.17, 129598.78, 7221.083
+Illusion Town, -153597.73, 139795.36, 6780.1475
+Illusion Town, -110684.89, 65922.05, 7198.4272
+Illusion Town, -142405.9, 139947.12, 6768.28
+Illusion Town, -155157.67, 143375.11, 6760.1934
+Illusion Town, -147825.73, 138790.28, 7170.647
+Illusion Town, -169637.98, 110697.7, 7106.681
+Illusion Town, -129366.16, 120897.55, 7081.294
+Illusion Town, -111831.016, 64017.14, 7474.8804
+Illusion Town, -192621.47, 116715.96, 7158.462
+Illusion Town, -100170.766, 68624.055, 6777.6206
+Illusion Town, -171107.77, 113508.63, 7213.1943
+
+===== [AreaID 004] Miguel District (39) =====
+Miguel District, -9845.245, 34422.38, 7705.1025
+Miguel District, -79924.94, -17969.06, 10991.434
+Miguel District, -57725.34, 17483.576, 7767.8906
+Miguel District, -21605.752, 39894.527, 7681.2515
+Miguel District, -81815.695, -2395.9456, 8470.767
+Miguel District, 35878.55, 36285.434, 7041.635
+Miguel District, -85570.42, 7412.719, 8470.767
+Miguel District, -54305.64, 34361.105, 7754.3936
+Miguel District, -36771.527, 22388.072, 7868.2236
+Miguel District, -74819.25, 61966.41, 6408.667
+Miguel District, -23107.889, 34245.9, 7374.713
+Miguel District, -62281.97, 39650.812, 7754.5645
+Miguel District, -55799.09, 19295.186, 7771.2593
+Miguel District, -31838.299, 46840.562, 7819.6187
+Miguel District, -2614.1055, 34416.73, 7749.756
+Miguel District, 10008.186, 25668.594, 7696.693
+Miguel District, -56100.035, 32099.398, 7756.8716
+Miguel District, -76964.695, 46638.035, 7766.5054
+Miguel District, -52183.523, -1117.6906, 7342.5317
+Miguel District, 5482.044, 45057.324, 7729.5874
+Miguel District, -49695.426, -8683.754, 7925.2983
+Miguel District, 7758.229, 28449.934, 7706.639
+Miguel District, -3875.977, 38714.082, 7376.209
+Miguel District, -9912.751, 41084.9, 7818.893
+Miguel District, -23495.965, 28651.29, 7763.2974
+Miguel District, 5004.8423, 22277.209, 7738.267
+Miguel District, -45614.992, -6084.8193, 7852.348
+Miguel District, -33832.133, 38734.47, 7374.713
+Miguel District, 16435.832, 38014.625, 7713.347
+Miguel District, -34991.348, 26080.861, 7768.1396
+Miguel District, -70127.555, 43741.07, 7762.0044
+Miguel District, -22713.248, 45790.29, 7746.6577
+Miguel District, -18057.61, 42900.99, 7746.6577
+Miguel District, -47562.766, 46271.81, 7740.429
+Miguel District, -8467.927, 46285.586, 7763.9795
+Miguel District, 21087.36, 42702.004, 7771.6724
+Miguel District, -30072.906, 9247.25, 8215.979
+Miguel District, -52564.45, 47290.098, 7780.0225
+Miguel District, -70597.805, 58169.453, 6366.9683
+
+===== [AreaID 005] New Herland District (76) =====
+New Herland District, -46666.438, 155826.56, 2337.6729
+New Herland District, 16878.328, 141857.52, 5550.317
+New Herland District, -10490.908, 102482.61, 6371.2686
+New Herland District, 7421.944, 57480.785, 6970.1245
+New Herland District, 14478.395, 86910.59, 6348.277
+New Herland District, -55815.15, 104683.64, 2633.4922
+New Herland District, -61292.63, 77040.41, 3685.0532
+New Herland District, -15757.797, 83975.01, 6388.5425
+New Herland District, -599.99164, 87327.34, 6292.395
+New Herland District, -55984.34, 93426.19, 2919.7551
+New Herland District, -1182.1543, 129089.83, 6385.3345
+New Herland District, 30715.516, 113459.75, 7152.983
+New Herland District, 20963.912, 59049.543, 6407.6255
+New Herland District, -39388.07, 117051.71, 4787.739
+New Herland District, -39756.28, 164840.11, 2338.5068
+New Herland District, -16262.366, 155838.0, 3195.686
+New Herland District, -12410.327, 79178.48, 6346.196
+New Herland District, 52587.36, 112927.79, 12419.892
+New Herland District, -4574.67, 78154.836, 6424.1855
+New Herland District, -8635.32, 132747.7, 6382.654
+New Herland District, -6456.9414, 92302.75, 6300.462
+New Herland District, -59184.145, 80462.96, 3155.8796
+New Herland District, -52988.605, 96946.2, 2939.9126
+New Herland District, -25623.596, 83612.46, 6398.485
+New Herland District, 15350.866, 146156.5, 4565.6597
+New Herland District, -10849.209, 91168.56, 7652.6753
+New Herland District, 9604.946, 67839.766, 6299.87
+New Herland District, -42609.62, 137908.03, 2949.9177
+New Herland District, -12000.647, 157715.94, 3193.1904
+New Herland District, -7395.8066, 108110.82, 7323.1816
+New Herland District, 41142.51, 83240.0, 6389.239
+New Herland District, -43206.08, 98264.555, 4860.1753
+New Herland District, -44899.973, 161514.16, 2340.4214
+New Herland District, 21135.883, 68515.914, 6349.614
+New Herland District, -7340.802, 85999.695, 6349.2075
+New Herland District, 26446.51, 104024.56, 7343.981
+New Herland District, 17513.346, 88555.11, 6351.78
+New Herland District, 24326.473, 66971.39, 6312.018
+New Herland District, 7636.06, 145800.48, 4535.5806
+New Herland District, 22138.266, 61810.59, 6363.5923
+New Herland District, -47055.266, 134547.58, 2904.034
+New Herland District, -60129.195, 79577.61, 3122.9888
+New Herland District, -20074.146, 138390.53, 7655.6665
+New Herland District, -3652.4807, 67770.41, 6380.649
+New Herland District, -19874.395, 85007.3, 6388.5425
+New Herland District, 7191.86, 135749.22, 6169.0693
+New Herland District, 24075.428, 70668.61, 6361.318
+New Herland District, -11009.161, 82027.27, 6403.0884
+New Herland District, -41449.676, 145459.83, 2904.4883
+New Herland District, 52745.33, 108957.72, 12986.257
+New Herland District, 6784.806, 149092.34, 4536.8125
+New Herland District, -13944.774, 68668.99, 6466.3496
+New Herland District, 43748.7, 118738.69, 7084.3423
+New Herland District, -15496.849, 72556.43, 6333.251
+New Herland District, 6577.9883, 60125.17, 7000.3325
+New Herland District, -41723.812, 162562.27, 2287.6575
+New Herland District, 8924.298, 141906.62, 4560.9067
+New Herland District, -1485.5961, 143290.84, 5558.6313
+New Herland District, -14466.64, 80141.0, 6440.514
+New Herland District, -16784.824, 131076.39, 6369.916
+New Herland District, -48834.89, 133261.05, 3007.273
+New Herland District, -7585.18, 94478.76, 6349.301
+New Herland District, 27538.748, 79002.17, 6413.359
+New Herland District, 21446.412, 59959.656, 6383.0493
+New Herland District, -7747.991, 93311.984, 6379.063
+New Herland District, -20869.666, 95750.62, 6393.8857
+New Herland District, -8877.664, 93548.34, 6379.1304
+New Herland District, 10931.79, 145247.42, 3535.6025
+New Herland District, 12914.95, 144591.5, 4487.6025
+New Herland District, 15546.915, 125041.17, 6380.537
+New Herland District, -61649.46, 80813.84, 2873.3518
+New Herland District, 3004.384, 81354.43, 6339.323
+New Herland District, 45439.438, 81355.15, 6145.9004
+New Herland District, -9161.762, 98588.92, 6364.0015
+New Herland District, 9592.053, 133131.34, 6124.2397
+New Herland District, -9302.551, 97842.55, 6359.66
+
+===== [AreaID 009] Sunni Island (10) =====
+Sunni Island, -255556.12, 348581.34, 2551.6807
+Sunni Island, -262324.5, 346063.2, 2539.4434
+Sunni Island, -257801.55, 342938.16, 2413.5547
+Sunni Island, -252259.69, 350510.56, 2536.6692
+Sunni Island, -250894.61, 349658.3, 2570.3123
+Sunni Island, -263629.75, 349031, 3059.735
+Sunni Island, -279062.66, 336235.34, 2416.409
+Sunni Island, -247154.5, 358116.84, 6727.517
+Sunni Island, -260138.1, 353418.22, 3289.2532
+Sunni Island, -260194.31, 350161.78, 2605.5808

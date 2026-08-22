@@ -1,0 +1,20 @@
+===== [AreaID 003] Illusion Town (3) =====
+WorldSafeBox, -125570, 47010, 7440
+WorldSafeBox, -178284, 111580, 7080
+WorldSafeBox, -125319, 46886, 7439
+
+===== [AreaID 004] Miguel District (10) =====
+WorldSafeBox, -42290, -28090, 11340
+WorldSafeBox, 45320, 31140, 7990
+WorldSafeBox, -121179, 5552, 10735
+WorldSafeBox, -39765, -26142, 11264
+WorldSafeBox, 43320, 35521, 15448
+WorldSafeBox, 43443.5, 34831.645, 15358.931
+WorldSafeBox, 43936, 33046, 11613
+WorldSafeBox, 48035, 6938, 7412
+WorldSafeBox, 53964, 14241, 7165
+WorldSafeBox, 55264, 13835, 7165
+
+===== [AreaID 005] New Herland District (2) =====
+WorldSafeBox, -13367.0625, 119842.59, 6978.7837
+WorldSafeBox, 15792, 67923.984, 7176.5625

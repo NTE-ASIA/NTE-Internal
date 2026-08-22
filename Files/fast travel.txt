@@ -1,0 +1,39 @@
+===== [AreaID 000] Area M10 (1) =====
+ReroRero Phone, 4002.999, 261499.62, 7204.5503
+
+===== [AreaID 001] Bridge Crossings (3) =====
+ReroRero Phone, -91137.586, 152676.33, 4146.893
+ReroRero Phone, -123813.02, 154011.39, 6686.0127
+Wertheimer Tower, -94186.6, 164739.61, 4185.5513
+
+===== [AreaID 002] Unheard Shores (2) =====
+ReroRero Phone, -135044.97, 200514.53, 11507
+Wertheimer Tower, -185307.7, 211462.42, 16560.2
+
+===== [AreaID 003] Illusion Town (3) =====
+ReroRero Phone, -152999.39, 129133.19, 6787.825
+ReroRero Phone, -102749.79, 65844.21, 6800.7344
+Wertheimer Tower, -170721.84, 107305.06, 7216.3286
+
+===== [AreaID 004] Miguel District (4) =====
+ReroRero Phone, -81366.08, -15375.429, 9892.514
+ReroRero Phone, -18738.71, 40248.168, 7706.998
+ReroRero Phone, 13070, 20505, 7722.494
+Wertheimer Tower, -29615.836, 7779.323, 8247.426
+
+===== [AreaID 005] New Herland District (6) =====
+ReroRero Phone, -59343.703, 84450.836, 2666.1257
+ReroRero Phone, 40293.59, 101588.04, 9703.37
+ReroRero Phone, -9520.768, 123705.414, 33750
+ReroRero Phone, 13424.039, 120839.85, 6431.4487
+ReroRero Phone, -11837.622, 74407, 6406.975
+Wertheimer Tower, 9648.285, 65612.09, 6399.0073
+
+===== [AreaID 006] Duskmoor (4) =====
+ReroRero Phone, -231586.83, -42692.402, 11061.109
+ReroRero Phone, -244990.42, -180786.78, 18853.1
+ReroRero Phone, -140192.4, -105613.18, 14024.647
+Wertheimer Tower, -280851.16, 104839.2, 3676.017
+
+===== [AreaID 009] Sunni Island (1) =====
+ReroRero Phone, -263295, 351765, 3316.7678
