@@ -63,7 +63,7 @@ units, and keeping clusters worth 4,000+ EV in total.
 
 Four of the top five sit on the 3F vault floor.
 
-## `Index/` - loot items
+## `Index` - loot items
 
 Sorted by value.
 
@@ -122,7 +122,7 @@ Rarity tiers, highest first: **Epic > Rare > Common > Basic**
 Fresh Tangerine Soda, VC Vitality Drink and Cooly Cool Pain Relief double as HP
 restore consumables - using one costs you its sale value.
 
-## `Keycard/`
+## `Keycard`
 
 | File | Slots | Doors |
 | --- | ---: | ---: |
