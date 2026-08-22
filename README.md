@@ -1,30 +1,52 @@
-# Important
+# NTE Internal — TP Files
 
-> Updated for Version 1.3.5 (Global)
+> **Updated for Version 1.3.5 (Global)**
 
-# TP Pack for NTE
+A collection of teleport (TP) files for **Neverness to Everness**.
+These files are intended to be used with **Pipsi** so you can quickly load predefined teleport locations instead of entering them manually.
 
-Let's use pipsi, you will no longer have to suffer for a long time<br>
-Official Server -> https://discord.com/invite/tPKFCs4VbB
+## Preview
 
-![Preview](sample.png)
+![TP Preview](sample.png)
 
-## Download
+## Download Pipsi
 
-Download the latest version here:<br>
+Download the latest version of Pipsi here:
+
 [Pipsi-NTE-Releases](https://github.com/Z4ee/Pipsi-NTE-Releases)
 
-## How to use TP files
+Official Discord server:
 
-![Preview](howtouse.png)
+[Join the Discord Server](https://discord.com/invite/tPKFCs4VbB)
 
-1. Save the TP text file to:
+## TP Files
+
+The available teleport files are stored in the [`Files`](./Files) directory.
+
+Some locations are grouped into subfolders to keep the repository organized.
+
+## How to Use
+
+1. Open the [`Files`](./Files) directory and download the TP `.txt` file you want to use.
+
+2. Place the downloaded file in:
 
 ```text
 C:\Program Files\Neverness To Everness\Client\WindowsNoEditor\HT\Binaries\Win64
 ```
 
-2. Open pipsi
-3. Go to the `Teleports` tab
-4. Enter the TP file name in the `File Name` field
-5. Load the file
+3. Open **Pipsi**.
+
+4. Go to the **Teleports** tab.
+
+5. Enter the TP file name in the **File Name** field.
+
+6. Load the file.
+
+![How to use TP files](howtouse.png)
+
+## Notes
+
+- Keep the `.txt` extension when saving TP files.
+- Make sure the file name entered in Pipsi matches the downloaded TP file name.
+- TP files may need to be updated when the game changes significantly.
