@@ -11,23 +11,6 @@ across the whole bank.
 | `Index/` | 47 loot items, one file each |
 | `Keycard/` | 22 keycards, one file each |
 
-## File format
-
-```
-Label, X, Y, Z
-```
-
-Coordinates are local to the heist map. They are **not** in the open-world
-coordinate space - do not mix the two.
-
-Files are split by floor with headers like:
-
-```
-===== [Floor 3F] (86) =====
-```
-
-Floors are `Lobby` / `1F` / `2F` / `3F`. `Quick.txt` also has a `Boss` section.
-
 ## These are not guaranteed spawns
 
 Each line is a slot where that item **can** roll, not a guaranteed pickup.
@@ -65,17 +48,6 @@ So that safe is worth roughly **8,000 Fons per open** on average. Note that the
 | `[Boss]` (3) | Boss spawn positions. |
 | `[Loot Cluster]` (31) | High-value areas. |
 
-Cluster labels decode like this:
-
-```
-3F Loot EV94798 x14, -28988.89, 50788.574, 4140.589
- |       |       |    \____________________________/
- |       |       |     centre of the cluster
- |       |       number of spawn slots in the cluster
- |       combined EV of the whole cluster, in Fons
- floor
-```
-
 Built by taking the 145 slots with EV >= 2,000, grouping anything within 900
 units, and keeping clusters worth 4,000+ EV in total.
 
@@ -91,7 +63,7 @@ units, and keeping clusters worth 4,000+ EV in total.
 
 Four of the top five sit on the 3F vault floor.
 
-## `Index` - loot items
+## `Index/` - loot items
 
 Sorted by value.
 
@@ -150,7 +122,7 @@ Rarity tiers, highest first: **Epic > Rare > Common > Basic**
 Fresh Tangerine Soda, VC Vitality Drink and Cooly Cool Pain Relief double as HP
 restore consumables - using one costs you its sale value.
 
-## `Keycard`
+## `Keycard/`
 
 | File | Slots | Doors |
 | --- | ---: | ---: |
@@ -182,6 +154,8 @@ All ten roll from the same 252 slots, so which one you find is luck.
 
 ## Notes
 
+- Coordinates are local to the heist map. They are **not** in the open-world
+  coordinate space - do not mix the two.
 - **Crimson Gem** is a boss drop only. The 3 lines in `Index/Crimson Gem.txt`
   are boss spawn positions, not pickup positions.
 - **Artwork Ancient Castle** only drops from enemies, so its coordinates are
