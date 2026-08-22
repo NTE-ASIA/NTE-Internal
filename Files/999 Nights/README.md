@@ -1,6 +1,6 @@
 # 999 Nights — Treasure & Landmark Coordinates
 
-Coordinate lists for the **999 Nights** roguelite map (Warren Continent), extracted from the shipped game data.
+Coordinate lists for the **999 Nights** roguelite map (Warren Continent).
 
 ## Regions
 
@@ -53,6 +53,6 @@ Every region except Camp and Fuzzy Village clears the "open 10 chests in this re
 
 ## Caveats
 
-- Positions are the placed world positions. Whether a chest is *present* in a given run still depends on region, round and difficulty state — a listed coordinate is a place a chest can be, not a guarantee for every run.
+- Whether a chest is *present* in a given run still depends on region, round and difficulty state — a listed coordinate is a place a chest can be, not a guarantee for every run.
 - Round variants (the same spot re-used across later rounds) are listed once.
-- Chest counts here are placements in the map data, which is why they run higher than what a single run through a region will show you.
+- The counts cover every spot in a region, which is why they run higher than what a single run through it will show you.
