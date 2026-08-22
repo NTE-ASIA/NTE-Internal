@@ -29,20 +29,6 @@ The six regions occupy completely separate parts of the world grid, so a coordin
 
 **260 chests in total.**
 
-## Line format
-
-```
-Region name, X, Y, Z
-```
-
-Sections are grouped by region and each header carries its own count:
-
-```
-===== [Region 001] Chocolate Volcano (22) =====
-```
-
-Coordinates are world-space UE units (1 unit = 1 cm), written at single-precision accuracy — the same values the game itself uses.
-
 ## Chests per region
 
 | Region | Common | Valuable | Rare | Mysterious | Trap | Total |
