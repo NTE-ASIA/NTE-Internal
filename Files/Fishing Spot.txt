@@ -1,0 +1,29 @@
+﻿===== [AreaID 001] Bridge Crossings (1) =====
+Nautili Tunnel West Fishing Spot, -77290, 190055, 2395.5
+
+===== [AreaID 002] Unheard Shores (2) =====
+Azure Vista Fishing Spot, -140360, 240125, 2316
+Imaginist Fishing Spot, -223870, 220700, 2481.5
+
+===== [AreaID 003] Illusion Town (1) =====
+Raindrop Court Fishing Spot, -133030, 119380, 6691
+
+===== [AreaID 004] Miguel District (1) =====
+Caltrop Lake Fishing Spot, -47927.848, 7273.7407, 7304.5
+
+===== [AreaID 005] New Herland District (3) =====
+Cape Square Fishing Spot, 34790, 162400, 2393
+Nautili Tunnel East Fishing Spot, -48000, 160150, 2315.5
+Stellar Marina Fishing Spot, -69145, 92905, 2325.5
+
+===== [AreaID 006] Duskmoor (1) =====
+Tearlake Fishing Spot, -219461.31, -64111.01, 10375
+
+===== [AreaID 009] Sunni Island (2) =====
+Sunward Island Fishing Spot, -278964.53, 336385.03, 2381.5
+Sunward Resort Fishing Spot, -266990, 365945, 4155
+
+===== [Offshore] (3) =====
+Offshore Fishing Spot 1, -320000, 179292.89, 2430
+Offshore Fishing Spot 2, -160454.52, 339458.3, 2430
+Offshore Fishing Spot 3, 140000, 299292.9, 2430
