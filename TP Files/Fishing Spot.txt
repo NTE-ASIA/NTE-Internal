@@ -1,8 +1,0 @@
-﻿Azure Vista Fishing Spot, -140352, 240243, 2395.17
-Imaginist Fishing Spot, -223951, 220828, 2560.84
-Raindrop Court Fishing Spot, -132922, 119282, 6761.37
-Nautili Tunnel West Fishing Spot, -77250.3, 190145, 2472.18
-Nautili Tunnel East Fishing Spot, -48151.2, 160197, 2395.17
-Cape Square Fishing Spot, 34818.3, 162529, 2469.64
-Stellar Marina Fishing Spot, -69155, 93001.3, 2402.15
-Caltop Lake Fishing Spot, -48043.7, 7332.92, 7381.1

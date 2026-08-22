@@ -1,5 +1,0 @@
-﻿1. Hospital Jigsaw 1, -3384.1294, -1362.2144, 1042.6826
-2. Hospital Jigsaw 2, -2824.2983, -213.31934, 1038.6761
-3. Hospital Jigsaw Fake 2, -695.8359, -1097.7607, 1146.1473
-4. Hospital Jigsaw Toilet, -594.6751, -835.37836, 985.2957
-5. Hospital Jigsaw Hidden, 171.03738, 3047.9343, 1023.1202
