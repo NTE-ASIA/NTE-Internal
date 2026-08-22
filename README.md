@@ -1,3 +1,7 @@
+# Important
+
+> Updated for Version 1.3.5 (Global)
+
 # TP Pack for NTE
 
 Let's use pipsi, you will no longer have to suffer for a long time<br>
