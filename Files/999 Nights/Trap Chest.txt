@@ -1,0 +1,15 @@
+===== [Region 001] Chocolate Volcano (1) =====
+Chocolate Volcano, 104649, 136031.14, -12837.412
+
+===== [Region 003] Amber Syrup Lake (3) =====
+Amber Syrup Lake, 121238.03, -95093.27, 3803.484
+Amber Syrup Lake, 121612.37, -94835.58, 3697.0542
+Amber Syrup Lake, 121650, -93630, 3700
+
+===== [Region 004] Crimson Castle (6) =====
+Crimson Castle, -141679.55, -147850.69, 10060.435
+Crimson Castle, -137533.4, -157638.08, 13702.866
+Crimson Castle, -117333.36, -143494.4, 24916.25
+Crimson Castle, -116240.55, -142822.25, 25058.818
+Crimson Castle, -115165.984, -144251.83, 25055.254
+Crimson Castle, -112326.69, -143747.5, 60051.76

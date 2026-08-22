@@ -1,0 +1,70 @@
+===== [Region 001] Chocolate Volcano (14) =====
+Chocolate Volcano, 98090.94, 158760, 329.89444
+Chocolate Volcano, 100757.586, 131135.42, -16643.33
+Chocolate Volcano, 100759.13, 130959.92, -16640.33
+Chocolate Volcano, 101543.19, 132409.2, -16621.33
+Chocolate Volcano, 102125.055, 148761.02, 932.90173
+Chocolate Volcano, 103404.88, 137947.56, -12815.116
+Chocolate Volcano, 103497.34, 138061.44, -12811.962
+Chocolate Volcano, 108169.2, 146578.53, -639.1869
+Chocolate Volcano, 108601.43, 145729.78, -6685
+Chocolate Volcano, 110407.73, 149952.97, -581.1229
+Chocolate Volcano, 113017.555, 147527.12, -130.74731
+Chocolate Volcano, 113128.16, 151797.84, -5724
+Chocolate Volcano, 114670, 140860, -8710
+Chocolate Volcano, 116033.664, 150112.78, 914
+
+===== [Region 002] Milk Ice Mountain (10) =====
+Milk Ice Mountain, -351323.53, 107654.14, -5964.5586
+Milk Ice Mountain, -347979.2, 112998.32, -5518.003
+Milk Ice Mountain, -341937.75, 128634.1, -10357.001
+Milk Ice Mountain, -337102, 140719, -9654
+Milk Ice Mountain, -332428.44, 141777.17, -5947.832
+Milk Ice Mountain, -329455.47, 146284.81, 1184.8652
+Milk Ice Mountain, -328616.25, 133822.38, -5658.718
+Milk Ice Mountain, -326094.97, 155219.02, 4347.5483
+Milk Ice Mountain, -324938.9, 148737.48, 1121.3615
+Milk Ice Mountain, -315314.94, 162906.03, 6292.911
+
+===== [Region 003] Amber Syrup Lake (14) =====
+Amber Syrup Lake, 114019.61, -141738.6, 2217.1592
+Amber Syrup Lake, 117496.42, -123279.02, 2265.0247
+Amber Syrup Lake, 121206.09, -94277.29, 3691.9604
+Amber Syrup Lake, 121518.13, -93383.7, 3719.2686
+Amber Syrup Lake, 123377.88, -134843.94, 2412.2173
+Amber Syrup Lake, 129067.32, -147828.31, 4379.4517
+Amber Syrup Lake, 129997.1, -146280.92, 5107.719
+Amber Syrup Lake, 135085.67, -146924.25, 4636.7305
+Amber Syrup Lake, 139184.2, -141260.39, 4243.202
+Amber Syrup Lake, 139908.05, -142511.4, 1315.323
+Amber Syrup Lake, 147001.16, -127526.234, 3043.5522
+Amber Syrup Lake, 154257.12, -104867.39, 3994.8777
+Amber Syrup Lake, 162259.17, -136903.27, 301.889
+Amber Syrup Lake, 168707.11, -124721.46, 6475
+
+===== [Region 004] Crimson Castle (14) =====
+Crimson Castle, -164676.62, -142505.77, 7347.948
+Crimson Castle, -150611.17, -149509.66, 8875.621
+Crimson Castle, -150328.9, -133917.34, 10063.979
+Crimson Castle, -147950.69, -171239.64, 13618.3125
+Crimson Castle, -147884.97, -143060.52, 10069.421
+Crimson Castle, -144916.05, -150552.62, 9669.427
+Crimson Castle, -142925.62, -136485.78, 10060.166
+Crimson Castle, -140985.05, -149492.16, 10438.876
+Crimson Castle, -139613.08, -156148.22, 10395.608
+Crimson Castle, -136135.98, -170938.42, 17398.268
+Crimson Castle, -115783.41, -143086.98, 25058.818
+Crimson Castle, -115740.35, -144512.75, 24916.25
+Crimson Castle, -114552.836, -143630.53, 37124.13
+Crimson Castle, -114274.52, -136497.64, 37078.555
+
+===== [Region 005] Camp (3) =====
+Camp, -4588.0054, 3436.88, 1319.3373
+Camp, 1086.884, -940.8651, 1718.6229
+Camp, 2774.479, 5953.365, 953.28815
+
+===== [Region 006] Fuzzy Village (4) =====
+Fuzzy Village, -32127.582, 132101.6, 3845.3054
+Fuzzy Village, -28915.268, 132883.95, 4876.32
+Fuzzy Village, -18225.102, 126160.14, 5145.384
+Fuzzy Village, -12235.438, 130444.086, 4759.153

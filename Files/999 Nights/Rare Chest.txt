@@ -1,0 +1,59 @@
+===== [Region 001] Chocolate Volcano (14) =====
+Chocolate Volcano, 85287.375, 146856, 2188
+Chocolate Volcano, 98547.96, 160842.02, 330
+Chocolate Volcano, 98926.086, 156573.67, -1318.7429
+Chocolate Volcano, 100576.086, 142033.81, -11888.702
+Chocolate Volcano, 101081.96, 152874.45, 1646.9918
+Chocolate Volcano, 103933.64, 136146.34, -12833.116
+Chocolate Volcano, 103955.03, 146339.84, -8687.638
+Chocolate Volcano, 110871.97, 158818.33, 1819.4822
+Chocolate Volcano, 110970.945, 158668.7, 1819.4822
+Chocolate Volcano, 112650.08, 159588.58, -2399
+Chocolate Volcano, 114788.48, 146557.12, -174.64212
+Chocolate Volcano, 121050.08, 163418.58, -3431.2444
+Chocolate Volcano, 121760.555, 152726.5, -5355
+Chocolate Volcano, 122785.6, 158130.94, -4547.4385
+
+===== [Region 002] Milk Ice Mountain (12) =====
+Milk Ice Mountain, -350816.78, 152019.89, 6079.837
+Milk Ice Mountain, -348211.44, 113193.33, -5497.498
+Milk Ice Mountain, -345136.8, 116157.16, -8301
+Milk Ice Mountain, -341083.1, 133562.81, -10439.742
+Milk Ice Mountain, -339243.38, 130042.62, -8139.1567
+Milk Ice Mountain, -334064.78, 126265.21, -8147.0146
+Milk Ice Mountain, -333504.06, 127959.49, -7300.915
+Milk Ice Mountain, -331494.88, 163535.67, 3138
+Milk Ice Mountain, -331371.53, 149708.28, 3891
+Milk Ice Mountain, -325848.84, 145640.56, -4911.5493
+Milk Ice Mountain, -307426.56, 176841.1, 10726.18
+Milk Ice Mountain, -298948.8, 183986.69, 11298.955
+
+===== [Region 003] Amber Syrup Lake (8) =====
+Amber Syrup Lake, 111052.31, -137026.6, 2232.8367
+Amber Syrup Lake, 111832.27, -128593.98, 3735.5066
+Amber Syrup Lake, 120880.54, -93547.01, 3991.858
+Amber Syrup Lake, 121149.76, -94447.484, 3717.3945
+Amber Syrup Lake, 121914.32, -93382.13, 3717.5999
+Amber Syrup Lake, 150213.25, -117019.33, 4456.993
+Amber Syrup Lake, 151285.4, -106574.44, 3932.558
+Amber Syrup Lake, 171219.16, -128359.836, 18222.535
+
+===== [Region 004] Crimson Castle (15) =====
+Crimson Castle, -171496.19, -156568.2, 9836.34
+Crimson Castle, -155388.08, -140152.7, 8886.408
+Crimson Castle, -147866.75, -141235.95, 10061.966
+Crimson Castle, -147656.08, -141247.52, 10068.225
+Crimson Castle, -147467.73, -137008.44, 8876.089
+Crimson Castle, -139511.05, -154299.58, 8826.804
+Crimson Castle, -136700.34, -157557.83, 13698.509
+Crimson Castle, -133453.52, -170411.86, 18012.666
+Crimson Castle, -118671.5, -140197.88, 60051.098
+Crimson Castle, -118350.375, -141482.11, 37118.69
+Crimson Castle, -116764.695, -146919.97, 24916.25
+Crimson Castle, -114991.234, -133803.3, 60051.76
+Crimson Castle, -114043.89, -139558.16, 59158
+Crimson Castle, -113472.19, -146201.86, 37124.227
+Crimson Castle, -111281.83, -138217.4, 37073.15
+
+===== [Region 005] Camp (1) =====
+Camp, -7217.715, -445.46756, 2259.5166
