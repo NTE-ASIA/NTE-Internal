@@ -72,3 +72,5 @@
 | Tomato 100 Juice |
 | Tomato 100 Jelly |
 | Tomato 100 Milkshake |
+
+Tomato 100 Jelly fills two of this machine's five slots: the ordinary snack and a quest version carried as an item for "Tomato Jelly Rampage: Live Report!". The quest "Tomato Jelly! So Good!" also asks you to buy jelly, and has its own dedicated machine placed for it.
