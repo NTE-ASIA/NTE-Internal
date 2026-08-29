@@ -68,5 +68,5 @@ Watchtower Cleaning Start, 228363, 377145, 4656
 Watchtower Cleaning Quit, 229294.22, 376921.34, 4394.5713
 
 ===== [NPC] (2) =====
-[NPC] Spider, 239269, 373915, 4496.21
-[NPC] squid ball, 238602, 372128, 4496.21
+Spider, 239269, 373915, 4496.21
+squid ball, 238602, 372128, 4496.21
