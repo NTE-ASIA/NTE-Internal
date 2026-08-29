@@ -2,7 +2,7 @@
 
 > **Updated for Version 1.3.5 (Global)**
 
-A collection of teleport (TP) files for **Neverness to Everness**.
+A collection of teleport files for **Neverness to Everness**.
 These files are intended to be used with **Pipsi** so you can quickly load predefined teleport locations instead of entering them manually.
 
 ## Preview
