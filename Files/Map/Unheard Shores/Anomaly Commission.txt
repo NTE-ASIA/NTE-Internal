@@ -1,0 +1,4 @@
+===== [AreaID 002] Unheard Shores (3) =====
+Brand Anniversary, -194567.03, 217428.69, 9527.36
+C's Cube, -190100, 192420, 10865
+Silent Garden, -161374.88, 174486.9, 8857

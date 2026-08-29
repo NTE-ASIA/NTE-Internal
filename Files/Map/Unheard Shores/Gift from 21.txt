@@ -1,0 +1,11 @@
+===== [AreaID 002] Unheard Shores (10) =====
+Unheard Shores, -133166.77, 211515.77, 10053.232
+Unheard Shores, -156187, 192335, 9155
+Unheard Shores, -160672.34, 185034.47, 8731.181
+Unheard Shores, -169473, 183844, 9162
+Unheard Shores, -170532.17, 176459.08, 8704.071
+Unheard Shores, -153248.94, 205272.98, 6756.754
+Unheard Shores, -181261.98, 241139.12, 2429.7651
+Unheard Shores, -207103.34, 194420.88, 7580.4897
+Unheard Shores, -195948.88, 187649.28, 8195.819
+Unheard Shores, -135163.34, 233795.75, 2297.2031

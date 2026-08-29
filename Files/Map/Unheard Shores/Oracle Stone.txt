@@ -1,0 +1,26 @@
+===== [AreaID 002] Unheard Shores (25) =====
+Unheard Shores, -145124.34, 250353.8, 2385.4797
+Unheard Shores, -140430.89, 197408.98, 10571.85
+Unheard Shores, -164505.19, 179711.78, 11277
+Unheard Shores, -203999.84, 199232.69, 7723.63
+Unheard Shores, -192714.31, 210144.2, 16915.371
+Unheard Shores, -187252.72, 221249.88, 16066.378
+Unheard Shores, -148825, 225316, 11592.5
+Unheard Shores, -160348.7, 204747.98, 7124.5
+Unheard Shores, -169060.2, 193825.23, 8504.656
+Unheard Shores, -184557.36, 177351.31, 6197.1553
+Unheard Shores, -181925.98, 227619.48, 8739
+Unheard Shores, -112030.1, 203887.44, 2704
+Unheard Shores, -134909.86, 200265.12, 14691.509
+Unheard Shores, -137815.95, 212022.17, 10902.071
+Unheard Shores, -149534.67, 213946.23, 10178.277
+Unheard Shores, -160403.27, 225690.5, 7384.8516
+Unheard Shores, -160762.28, 210921.53, 4013.019
+Unheard Shores, -203351.25, 194329.44, 7606.891
+Unheard Shores, -205866.42, 232583.73, 4959.746
+Unheard Shores, -156473.22, 234330.03, 4913.276
+Unheard Shores, -157643.81, 182174.45, 9283.286
+Unheard Shores, -156185.3, 192253.7, 10180.64
+Unheard Shores, -193422.14, 204770.84, 15067.245
+Unheard Shores, -172471.69, 206035.97, 11455.629
+Unheard Shores, -201357.8, 216432.95, 7993.1533
