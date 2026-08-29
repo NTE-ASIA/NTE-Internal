@@ -1,0 +1,5 @@
+===== [AreaID 009] Sunni Island (4) =====
+Sunni Island, -256100.0, 344600.0, 2500.0
+Sunni Island, -267650.0, 358500.0, 4100.0
+Sunni Island, -247480.0, 362220.0, 7950.0
+Sunni Island, -271450.0, 374900.0, 3130.0

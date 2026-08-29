@@ -1,0 +1,11 @@
+===== [AreaID 009] Sunni Island (10) =====
+Sunni Island, -252298, 345275, 2574
+Sunni Island, -266296, 349694, 3820
+Sunni Island, -247301, 362722, 9669
+Sunni Island, -279619, 336635, 2706
+Sunni Island, -270032, 362882, 6028
+Sunni Island, -284481, 348129, 2412
+Sunni Island, -272040.7, 372942.3, 2435
+Sunni Island, -255139.73, 370226.47, 2567
+Sunni Island, -220821, 357406, 2316
+Sunni Island, -247101, 358066, 6884
