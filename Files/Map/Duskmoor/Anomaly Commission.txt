@@ -1,0 +1,7 @@
+===== [AreaID 006] Duskmoor (6) =====
+Fawn Alone, -270850, 84480, 6590
+Finale: Da Capo, -258885.44, -244565.89, 27299.99
+Lantern Parade, -290127, 34514, 13713
+Storybook Skirmish, -199815, -162585, 13453
+Sunken Door, -239840, -98470, 10246.427
+Twin Blooms, -271868, -158025, 13920.2
