@@ -1,0 +1,10 @@
+===== [AreaID 004] Miguel District (9) =====
+Miguel District, -80840.0, 43210.0, 7710.0
+Miguel District, -40270.0, 36495.0, 7715.0
+Miguel District, 26813.0, 43305.0, 52638.0
+Miguel District, 16500.0, 20255.0, 7613.0
+Miguel District, 10110.0, 6440.0, 8995.0
+Miguel District, -45460.0, 7670.0, 7250.0
+Miguel District, -47080.0, -8750.0, 7800.0
+Miguel District, -85745.0, 4995.0, 8421.0
+Miguel District, -51815.0, 46330.0, 7700.0

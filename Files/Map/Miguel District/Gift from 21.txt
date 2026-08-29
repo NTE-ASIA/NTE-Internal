@@ -1,0 +1,16 @@
+===== [AreaID 004] Miguel District (15) =====
+Miguel District, -86507.61, 54871.918, 7765.289
+Miguel District, 25357.828, 17938.23, 7615.1255
+Miguel District, -32339.379, 23817.607, 7839.8066
+Miguel District, -80382.01, 316.35983, 8134.7456
+Miguel District, -31212.416, 16317.628, 8496.635
+Miguel District, -6998.9204, 13102.16, 8689.982
+Miguel District, -43998.91, 6457.629, 7452.3447
+Miguel District, -70609.38, 38740.164, 7710.867
+Miguel District, 25611.72, 30046.314, 7668.301
+Miguel District, -61199.824, 32042.883, 7702.15
+Miguel District, -20771.562, 31491.355, 7624.65
+Miguel District, 10386.822, 22085.94, 7737.269
+Miguel District, 44262.848, 44706.184, 5167.631
+Miguel District, -35119.113, 1556.9196, 8407.936
+Miguel District, -51895.586, 48805.98, 12800.701

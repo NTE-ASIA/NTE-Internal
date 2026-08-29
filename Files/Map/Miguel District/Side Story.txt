@@ -1,0 +1,5 @@
+===== [AreaID 004] Miguel District (4) =====
+Co… Collect Cold Air?, -40778.965, 22469.668, 7767
+Ghost Racer, -84157.2, -812.6115, 8581.145
+Gift for the Little Book Lover, -39769.254, 23214.355, 7841.474
+The 100th Lucky Student, 25946.914, 10537.791, 7924.8643
