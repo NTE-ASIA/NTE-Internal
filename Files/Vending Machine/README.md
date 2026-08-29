@@ -2,6 +2,8 @@
 
 441 vending machines, in six kinds. `vending machine.txt` lists them all by area without telling the kinds apart, so this is the key to what each one sells.
 
+One section of that file is labelled `Interior` instead of an area: those 25 machines sit inside instanced spaces — shops, buildings and event maps — rather than out on the street.
+
 | Machine | Count | Items |
 | --- | ---: | ---: |
 | Refresh Vending Machine | 123 | 5 |
