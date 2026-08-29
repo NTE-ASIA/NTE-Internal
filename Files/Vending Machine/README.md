@@ -13,7 +13,7 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Tomato 100 Vending Machine | 15 | 4 |
 | Puka Vending Machine | 4 | 6 |
 
-## Vending Machine (mixed)
+## Vending Machine
 
 | Item |
 | --- |
