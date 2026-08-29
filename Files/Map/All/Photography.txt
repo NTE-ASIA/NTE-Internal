@@ -1,0 +1,62 @@
+===== [AreaID 001] Bridge Crossings (6) =====
+Bridge Crossings, -90500.0, 153050.0, 4079.5
+Bridge Crossings, -130000.0, 163210.0, 7307.0
+Bridge Crossings, -112370.0, 155230.0, 5807.0
+Bridge Crossings, -93430.0, 132595.0, 9180.0
+Bridge Crossings, -100800.5, 173865.0, 5461.5
+Bridge Crossings, -133480.0, 173650.0, 6620.0
+
+===== [AreaID 002] Unheard Shores (5) =====
+Unheard Shores, -140070.0, 204660.0, 10200.0
+Unheard Shores, -152475.0, 225575.0, 11513.0
+Unheard Shores, -147965.0, 241025.0, 2466.0
+Unheard Shores, -188206.0, 213087.0, 17630.0
+Unheard Shores, -160315.0, 185390.0, 8357.0
+
+===== [AreaID 003] Illusion Town (6) =====
+Illusion Town, -150825.0, 150425.0, 6650.5
+Illusion Town, -166765.0, 111135.0, 7107.0
+Illusion Town, -152725.0, 105735.0, 7107.0
+Illusion Town, -116395.0, 67685.0, 7368.0
+Illusion Town, -135190.0, 117020.0, 6760.0
+Illusion Town, -152750.0, 135235.0, 6719.0
+
+===== [AreaID 004] Miguel District (9) =====
+Miguel District, -80840.0, 43210.0, 7710.0
+Miguel District, -40270.0, 36495.0, 7715.0
+Miguel District, 26813.0, 43305.0, 52638.0
+Miguel District, 16500.0, 20255.0, 7613.0
+Miguel District, 10110.0, 6440.0, 8995.0
+Miguel District, -45460.0, 7670.0, 7250.0
+Miguel District, -47080.0, -8750.0, 7800.0
+Miguel District, -85745.0, 4995.0, 8421.0
+Miguel District, -51815.0, 46330.0, 7700.0
+
+===== [AreaID 005] New Herland District (9) =====
+New Herland District, -65730.0, 89060.0, 2580.0
+New Herland District, -5330.0, 99870.0, 6306.0
+New Herland District, -14270.0, 122555.0, 6334.0
+New Herland District, 7320.0, 139560.0, 6114.5
+New Herland District, 19105.0, 120875.0, 6300.0
+New Herland District, 52410.0, 108975.0, 12987.0
+New Herland District, 24480.0, 71355.0, 6311.0
+New Herland District, 8175.0, 126800.0, 6350.0
+New Herland District, -59690.0, 177045.0, -744.0
+
+===== [AreaID 006] Duskmoor (10) =====
+Duskmoor, -263855.720616, 153486.785114, 3518.039176
+Duskmoor, -242572.75294, 64299.002944, 11298.455544
+Duskmoor, -220096.484483, 36351.612436, 13462.516772
+Duskmoor, -249481.51493, 28215.695345, 10877.207377
+Duskmoor, -242338.283943, -176391.315046, 19053.531228
+Duskmoor, -290716.79614, -83250.478881, 12695.161
+Duskmoor, -233196.477068, -28809.630756, 11207.892718
+Duskmoor, -187518.466739, -162869.530417, 13324.835157
+Duskmoor, -215106.312358, -175780.250444, 14975.649183
+Duskmoor, -117301.37239, -120062.963188, 22049.40443
+
+===== [AreaID 009] Sunni Island (4) =====
+Sunni Island, -256100.0, 344600.0, 2500.0
+Sunni Island, -267650.0, 358500.0, 4100.0
+Sunni Island, -247480.0, 362220.0, 7950.0
+Sunni Island, -271450.0, 374900.0, 3130.0
