@@ -1,73 +1,81 @@
-# Pink Paws Heist - Coordinate Data
+# Pink Paws Heist — Coordinate Data
 
-Spawn locations for the Pink Paws Heist game mode, covering **2,109 loot slots**
-across the whole bank
+Coordinate data for **Pink Paws Heist** covering **2,109 loot slots** across the bank
 
 ## Contents
 
-| Path | What it is |
+| Path | Contents |
 | --- | --- |
-| `Quick.txt` | Cheat sheet: exits, boss, high-value clusters (45 entries) |
-| `Index/` | 47 loot items, one file each |
-| `Keycard/` | 22 keycards, one file each |
+| `Quick.txt` | Exits, boss positions, and high-value loot clusters |
+| `Index/` | Loot item coordinates grouped by item |
+| `keycard/` | Keycard coordinates grouped by card |
 
-## These are not guaranteed spawns
+## Spawn Data
 
-Each line is a slot where that item **can** roll, not a guaranteed pickup
-On any single run each slot rolls exactly one item from its loot table
+The coordinates represent locations where an item **can** appear
 
-> `Eternal Heart.txt` has 697 lines That does not mean 697 hearts spawn per
-> run - it means those 697 slots each have a small chance of rolling one
+They are not guaranteed spawns, because each slot selects an item from its own loot table during a run
 
-## Expected value (EV)
+> `Eternal Heart.txt` contains 697 entries, but this does not mean 697 Eternal Hearts appear in one run
 
-EV is the average Fons you get from opening one slot, computed from the loot table:
+## Expected Value
 
-```
+Expected Value or **EV** estimates the average Fons value of opening a loot slot
+
+```text
 EV = SUM(weight * value) / SUM(weight)
 ```
 
-Worked example - the gem safes on 3F (14 slots):
+### Example — 3F Gem Safes
 
-| Item | Value | Weight | Chance | EV share |
+| Item | Value | Weight | Chance | EV Share |
 | --- | ---: | ---: | ---: | ---: |
 | Gold Bar | 1,000 | 858,378 | 85.84% | 858 |
 | Smoky Amethyst | 9,999 | 108,940 | 10.89% | 1,089 |
 | Lustrous Jade | 88,888 | 27,235 | 2.72% | 2,421 |
 | Eternal Heart | 666,666 | 5,447 | 0.54% | 3,631 |
-| **Total** | | **1,000,000** | **100.00%** | **7,999** |
+| **Total** |  | **1,000,000** | **100.00%** | **7,999** |
 
-So that safe is worth roughly **8,000 Fons per open** on average Note that the
-0.54% Eternal Heart roll supplies nearly half of the whole EV
+A gem safe is worth roughly **8,000 Fons per open** on average
 
-## Reading `Quick.txt`
+The Eternal Heart roll is only **0.54%**, but contributes nearly half of the total EV
 
-| Section | Contents |
-| --- | --- |
-| `[Extraction]` (11) | Extraction doors: 1F x4, 2F x4, 3F x2, 4F x1 `Exit 4F-001` is the one past the final boss room |
-| `[Boss]` (3) | Boss spawn positions |
-| `[Loot Cluster]` (31) | High-value areas |
+## Quick.txt
 
-Built by taking the 145 slots with EV >= 2,000, grouping anything within 900
-units, and keeping clusters worth 4,000+ EV in total
+`Quick.txt` contains the most useful locations for fast reference
 
-### Top 5 clusters
+| Section | Entries | Contents |
+| --- | ---: | --- |
+| `[Extraction]` | 11 | Extraction doors |
+| `[Boss]` | 3 | Boss spawn positions |
+| `[Loot Cluster]` | 31 | High-value loot areas |
 
-| EV | Slots | Floor | Position | |
+### Extraction Doors
+
+- 1F — 4
+- 2F — 4
+- 3F — 2
+- 4F — 1
+
+`Exit 4F-001` is located past the final boss room
+
+### Top 5 Loot Clusters
+
+| EV | Slots | Floor | Position | Note |
 | ---: | ---: | --- | --- | --- |
 | 94,798 | 14 | 3F | -28988.9, 50788.6, 4140.6 | |
 | 52,199 | 7 | 3F | -40207.5, 50610.2, 4167.2 | |
 | 50,057 | 12 | 3F | -36807.8, 52355.4, 4043.1 | |
-| 40,000 | 1 | 2F | -34920.0, 39820.0, 4150.0 | richest single slot |
+| 40,000 | 1 | 2F | -34920.0, 39820.0, 4150.0 | Highest-value single slot |
 | 31,250 | 9 | 3F | -32512.7, 52597.5, 4059.9 | |
 
-Four of the top five sit on the 3F vault floor
+Four of the top five clusters are on the **3F vault floor**
 
-## `Index` - loot items
+## Loot Index
 
-Sorted by value
+Files in `Index/` are separated by loot item and sorted below by value
 
-| File | Rarity | Value (Fons) | Slots |
+| File | Rarity | Value | Slots |
 | --- | --- | ---: | ---: |
 | Eternal Heart | Epic | 666,666 | 697 |
 | Crimson Gem | Epic | 131,400 | 3 |
@@ -117,12 +125,11 @@ Sorted by value
 | Manga Duke K | Basic | 50 | 342 |
 | Manga Magazine | Basic | 30 | 342 |
 
-Rarity tiers, highest first: **Epic > Rare > Common > Basic**
+**Rarity order:** Epic > Rare > Common > Basic
 
-Fresh Tangerine Soda, VC Vitality Drink and Cooly Cool Pain Relief double as HP
-restore consumables - using one costs you its sale value
+Fresh Tangerine Soda, VC Vitality Drink, and Cooly Cool Pain Relief can also restore HP, so using one means giving up its sale value
 
-## `Keycard`
+## Keycards
 
 | File | Slots | Doors |
 | --- | ---: | ---: |
@@ -149,17 +156,15 @@ restore consumables - using one costs you its sale value
 | Vault Access Card VIII | 252 | 1 |
 | Vault Access Card X | 252 | 1 |
 
-Vault Access Card I through X map one-to-one to the ten vault doors on 3F
-All ten roll from the same 252 slots, so which one you find is luck
+Vault Access Card I through X correspond to the ten vault doors on 3F
+
+All ten cards can roll from the same **252 slots**
 
 ## Notes
 
-- Coordinates are local to the heist map They are **not** in the open-world
-  coordinate space - do not mix the two
-- **Crimson Gem** is a boss drop only The 3 lines in `Index/Crimson Gem.txt`
-  are boss spawn positions, not pickup positions
-- **Artwork Ancient Castle** only drops from enemies, so its coordinates are
-  those enemy spawn positions
-- **Paw-Paw Coins** are a score reward currency, not a lootable item, so there
-  are no coordinates for them
-- Fons income is multiplied during limited-time events
+- Pink Paws Heist uses its own local coordinate space, separate from the open world
+- Do not mix heist coordinates with open-world coordinates
+- **Crimson Gem** is a boss drop, so its entries are boss spawn positions rather than pickup positions
+- **Artwork Ancient Castle** drops from enemies, so its entries are enemy spawn positions
+- **Paw-Paw Coins** are score rewards rather than lootable map items, so they have no coordinate file
+- Fons income can be multiplied during limited-time events
