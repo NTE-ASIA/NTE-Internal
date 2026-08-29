@@ -1,7 +1,7 @@
 # Pink Paws Heist - Coordinate Data
 
 Spawn locations for the Pink Paws Heist game mode, covering **2,109 loot slots**
-across the whole bank.
+across the whole bank
 
 ## Contents
 
@@ -13,11 +13,11 @@ across the whole bank.
 
 ## These are not guaranteed spawns
 
-Each line is a slot where that item **can** roll, not a guaranteed pickup.
-On any single run each slot rolls exactly one item from its loot table.
+Each line is a slot where that item **can** roll, not a guaranteed pickup
+On any single run each slot rolls exactly one item from its loot table
 
-> `Eternal Heart.txt` has 697 lines. That does not mean 697 hearts spawn per
-> run - it means those 697 slots each have a small chance of rolling one.
+> `Eternal Heart.txt` has 697 lines That does not mean 697 hearts spawn per
+> run - it means those 697 slots each have a small chance of rolling one
 
 ## Expected value (EV)
 
@@ -37,19 +37,19 @@ Worked example - the gem safes on 3F (14 slots):
 | Eternal Heart | 666,666 | 5,447 | 0.54% | 3,631 |
 | **Total** | | **1,000,000** | **100.00%** | **7,999** |
 
-So that safe is worth roughly **8,000 Fons per open** on average. Note that the
-0.54% Eternal Heart roll supplies nearly half of the whole EV.
+So that safe is worth roughly **8,000 Fons per open** on average Note that the
+0.54% Eternal Heart roll supplies nearly half of the whole EV
 
 ## Reading `Quick.txt`
 
 | Section | Contents |
 | --- | --- |
-| `[Extraction]` (11) | Extraction doors: 1F x4, 2F x4, 3F x2, 4F x1. `Exit 4F-001` is the one past the final boss room. |
-| `[Boss]` (3) | Boss spawn positions. |
-| `[Loot Cluster]` (31) | High-value areas. |
+| `[Extraction]` (11) | Extraction doors: 1F x4, 2F x4, 3F x2, 4F x1 `Exit 4F-001` is the one past the final boss room |
+| `[Boss]` (3) | Boss spawn positions |
+| `[Loot Cluster]` (31) | High-value areas |
 
 Built by taking the 145 slots with EV >= 2,000, grouping anything within 900
-units, and keeping clusters worth 4,000+ EV in total.
+units, and keeping clusters worth 4,000+ EV in total
 
 ### Top 5 clusters
 
@@ -61,11 +61,11 @@ units, and keeping clusters worth 4,000+ EV in total.
 | 40,000 | 1 | 2F | -34920.0, 39820.0, 4150.0 | richest single slot |
 | 31,250 | 9 | 3F | -32512.7, 52597.5, 4059.9 | |
 
-Four of the top five sit on the 3F vault floor.
+Four of the top five sit on the 3F vault floor
 
 ## `Index` - loot items
 
-Sorted by value.
+Sorted by value
 
 | File | Rarity | Value (Fons) | Slots |
 | --- | --- | ---: | ---: |
@@ -120,7 +120,7 @@ Sorted by value.
 Rarity tiers, highest first: **Epic > Rare > Common > Basic**
 
 Fresh Tangerine Soda, VC Vitality Drink and Cooly Cool Pain Relief double as HP
-restore consumables - using one costs you its sale value.
+restore consumables - using one costs you its sale value
 
 ## `Keycard`
 
@@ -149,17 +149,17 @@ restore consumables - using one costs you its sale value.
 | Vault Access Card VIII | 252 | 1 |
 | Vault Access Card X | 252 | 1 |
 
-Vault Access Card I through X map one-to-one to the ten vault doors on 3F.
-All ten roll from the same 252 slots, so which one you find is luck.
+Vault Access Card I through X map one-to-one to the ten vault doors on 3F
+All ten roll from the same 252 slots, so which one you find is luck
 
 ## Notes
 
-- Coordinates are local to the heist map. They are **not** in the open-world
-  coordinate space - do not mix the two.
-- **Crimson Gem** is a boss drop only. The 3 lines in `Index/Crimson Gem.txt`
-  are boss spawn positions, not pickup positions.
+- Coordinates are local to the heist map They are **not** in the open-world
+  coordinate space - do not mix the two
+- **Crimson Gem** is a boss drop only The 3 lines in `Index/Crimson Gem.txt`
+  are boss spawn positions, not pickup positions
 - **Artwork Ancient Castle** only drops from enemies, so its coordinates are
-  those enemy spawn positions.
+  those enemy spawn positions
 - **Paw-Paw Coins** are a score reward currency, not a lootable item, so there
-  are no coordinates for them.
-- Fons income is multiplied during limited-time events.
+  are no coordinates for them
+- Fons income is multiplied during limited-time events
