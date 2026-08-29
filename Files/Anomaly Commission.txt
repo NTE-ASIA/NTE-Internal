@@ -1,0 +1,60 @@
+===== [AreaID 001] Bridge Crossings (10) =====
+After School, -145945, 167103, 8205.64
+Backstreet Boxer, -81557.8, 157084, 4330.24
+C's Tower, -123900.05, 135966.19, 10657
+Case of Serial Explosion, -132650.5, 131027.57, 6989.543
+Dragon Gate Substitute, -133249, 176579, 9857
+Lightspeed Tagger, -202012.45, 215869.14, 7806.2944
+Old School Days, -86103.3, 169866, 3397.94
+Reclaim Inspiration, -115421.06, 146731.73, 9574
+Ride Assault, -103871.51, 181596.58, 5214
+Rooftop Boxer, -135576.52, 169452.31, 10478.344
+
+===== [AreaID 002] Unheard Shores (3) =====
+Brand Anniversary, -194567.03, 217428.69, 9527.36
+C's Cube, -190100, 192420, 10865
+Silent Garden, -161374.88, 174486.9, 8857
+
+===== [AreaID 003] Illusion Town (6) =====
+Lonely Player, -152506.83, 101191.07, 7409.4556
+Nightmare-Bound, -157921.9, 132830.27, 7024.935
+Prepare for Rain, -70198.1, 137958, 2882.1
+Rhythm Master, -105563.87, 94421.63, 7361
+Video Cemetery, -87909.6, 143882.7, 4150.5
+Where Is Home, -195718.44, 121657.14, 7530
+
+===== [AreaID 004] Miguel District (8) =====
+Clearing After Snowfall, -8619.763, -629.542, 10015.767
+Court Boxer, -63075.582, 39391.258, 7711.939
+Ghost of Whitetail Ridge, -48352.9, -29589.5, 11411
+Plot Hole Repair Project, -45079.36, -17772.877, 8973.17
+Power Saver, -7605.0303, 30836.135, 9744.313
+Prayers for Clear Skies, -15682.075, 18164.508, 8835.289
+This is not a painting, -102644, 11552.559, 9908.627
+Whose Leak Is This?, -23936.77, 48682.336, 7794.965
+
+===== [AreaID 005] New Herland District (10) =====
+A Sad Bear Cries Not, 37429.824, 85100.13, 6407.8154
+Call of the Lost, -49854.613, 63796.395, 11535
+Change Your Perspective?, 27563.818, 61116.65, 6690.225
+Deep Blue Sorrow, -52630, 175120, -1490
+Heaven's Forsaken, 4627.3867, 109952.18, 29207.234
+Kindness Hard to Refuse, -16509.324, 66328.82, 6875.828
+Let's Go See a Movie, -6020.2036, 104829.23, 7120
+Party Boxer, -22378.705, 112436.33, 12426.4375
+The Book of Post-Adolescence, 52.89594, 72542.75, -36600.13
+Yarn Ball or Fons?, 16786.873, 121494.52, 1620
+
+===== [AreaID 006] Duskmoor (6) =====
+Fawn Alone, -270850, 84480, 6590
+Finale: Da Capo, -258885.44, -244565.89, 27299.99
+Lantern Parade, -290127, 34514, 13713
+Storybook Skirmish, -199815, -162585, 13453
+Sunken Door, -239840, -98470, 10246.427
+Twin Blooms, -271868, -158025, 13920.2
+
+===== [AreaID 008] Detention Facility (1) =====
+A Breeze Through the Cage, 236137.38, 370373.78, 4110.045
+
+===== [AreaID 009] Sunni Island (1) =====
+Mist Pursuit, -285513.75, 358966.47, 2567.2307
