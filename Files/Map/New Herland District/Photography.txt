@@ -1,0 +1,10 @@
+===== [AreaID 005] New Herland District (9) =====
+New Herland District, -65730.0, 89060.0, 2580.0
+New Herland District, -5330.0, 99870.0, 6306.0
+New Herland District, -14270.0, 122555.0, 6334.0
+New Herland District, 7320.0, 139560.0, 6114.5
+New Herland District, 19105.0, 120875.0, 6300.0
+New Herland District, 52410.0, 108975.0, 12987.0
+New Herland District, 24480.0, 71355.0, 6311.0
+New Herland District, 8175.0, 126800.0, 6350.0
+New Herland District, -59690.0, 177045.0, -744.0

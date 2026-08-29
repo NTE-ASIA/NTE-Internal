@@ -1,0 +1,21 @@
+===== [AreaID 005] New Herland District (20) =====
+New Herland District, -6455.5786, 134891.2, 6327.8857
+New Herland District, -35466.31, 70899.63, 6526.751
+New Herland District, -76631.55, 70690.11, 10574.595
+New Herland District, -34896.88, 119001.805, 13782.833
+New Herland District, 39174.293, 56038.902, 9317.3125
+New Herland District, -46555.43, 87594.58, 9451.338
+New Herland District, -17436, 74976, 8291
+New Herland District, 13203.236, 61162.28, 6924.343
+New Herland District, -28854.621, 84964.37, 6339.4897
+New Herland District, 35250.19, 73227.8, 6177.5884
+New Herland District, 36352, 138546, 3167
+New Herland District, 26389.668, 114367.1, 7058.825
+New Herland District, -34296.945, 131251.86, 2838.106
+New Herland District, 48629.918, 124416.375, 6457.766
+New Herland District, 24185.654, 77846.7, 6300
+New Herland District, -17352, 95419, 6326.07
+New Herland District, 1427.8304, 89998.79, 12682
+New Herland District, -23773, 137868, 5498
+New Herland District, 32752.479, 102596.484, 8451
+New Herland District, -12394, 110283, 11595

@@ -1,0 +1,4 @@
+===== [AreaID 005] New Herland District (3) =====
+Lights On, 26300, 121300, 7209
+Professional Oddity Language Interpreter, -31613.082, 46908.31, 7844.585
+The Second Lamp, 26284.383, 121162.74, 7080.6396

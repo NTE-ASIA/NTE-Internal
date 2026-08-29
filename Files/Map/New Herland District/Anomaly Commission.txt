@@ -1,0 +1,11 @@
+===== [AreaID 005] New Herland District (10) =====
+A Sad Bear Cries Not, 37429.824, 85100.13, 6407.8154
+Call of the Lost, -49854.613, 63796.395, 11535
+Change Your Perspective?, 27563.818, 61116.65, 6690.225
+Deep Blue Sorrow, -52630, 175120, -1490
+Heaven's Forsaken, 4627.3867, 109952.18, 29207.234
+Kindness Hard to Refuse, -16509.324, 66328.82, 6875.828
+Let's Go See a Movie, -6020.2036, 104829.23, 7120
+Party Boxer, -22378.705, 112436.33, 12426.4375
+The Book of Post-Adolescence, 52.89594, 72542.75, -36600.13
+Yarn Ball or Fons?, 16786.873, 121494.52, 1620
