@@ -1,6 +1,6 @@
 # 999 Nights — Treasure & Landmark Coordinates
 
-Coordinate lists for the **999 Nights** roguelite map (Warren Continent).
+Coordinate lists for the **999 Nights** roguelite map (Warren Continent)
 
 ## Regions
 
@@ -13,7 +13,7 @@ Coordinate lists for the **999 Nights** roguelite map (Warren Continent).
 | 005 | Camp |
 | 006 | Fuzzy Village |
 
-The six regions occupy completely separate parts of the world grid, so a coordinate alone identifies its region unambiguously.
+The six regions occupy completely separate parts of the world grid, so a coordinate alone identifies its region unambiguously
 
 ## Files
 
@@ -27,7 +27,7 @@ The six regions occupy completely separate parts of the world grid, so a coordin
 | `Bonfire.txt` | 48 | Bonfire — rest, identify and salvage equipment, Warehouse access, fast-travel target, respawn point after a defeat |
 | `Golden Pig Hiding Spot.txt` | 54 | Spots the Puffyhog bolts to during the catch event |
 
-**260 chests in total.**
+**260 chests in total**
 
 ## Chests per region
 
@@ -40,19 +40,19 @@ The six regions occupy completely separate parts of the world grid, so a coordin
 | Camp | 13 | 3 | 1 | 0 | 0 | 17 |
 | Fuzzy Village | 7 | 4 | 0 | 2 | 0 | 13 |
 
-Every region except Camp and Fuzzy Village clears the "open 10 chests in this region" objective several times over.
+Every region except Camp and Fuzzy Village clears the "open 10 chests in this region" objective several times over
 
 ## What to expect
 
-- **Tiers.** Common to Valuable to Rare is the loot ladder. Rare chests are the ones worth a detour; Crimson Castle carries the most of them (15), Chocolate Volcano is next (14).
-- **Mysterious Chest.** Roll the dice to decide the reward. Seven per region in Volcano, Snow, Lake and Castle; only two in Fuzzy Village; none at Camp.
-- **Trap Chest.** Opening it seals the area and spawns a wave. Six of the ten sit inside Crimson Castle, so treat unattended chests there with suspicion.
-- **Bonfires** are the hub of a run: rest, identify and salvage gear, reach the Warehouse, and respawn there after a defeat. Once lit, a bonfire also becomes a fast-travel target on the map, so lighting them early pays off. Milk Ice Mountain, Chocolate Volcano and Amber Syrup Lake are well covered; Fuzzy Village has none.
-- **Camp and Fuzzy Village** are hub areas rather than runs. Their chests are static scenery pickups, not part of a region clear.
-- **Golden Pig Hiding Spot** lists where the Puffyhog runs to during the catch event, not where it starts. They cluster in tight groups, so knowing one spot usually tells you where the next two are.
+- **Tiers** Common to Valuable to Rare is the loot ladder. Rare chests are the ones worth a detour; Crimson Castle carries the most of them (15), Chocolate Volcano is next (14)
+- **Mysterious Chest** Roll the dice to decide the reward. Seven per region in Volcano, Snow, Lake and Castle; only two in Fuzzy Village; none at Camp
+- **Trap Chest** Opening it seals the area and spawns a wave. Six of the ten sit inside Crimson Castle, so treat unattended chests there with suspicion
+- **Bonfires** are the hub of a run: rest, identify and salvage gear, reach the Warehouse, and respawn there after a defeat. Once lit, a bonfire also becomes a fast-travel target on the map, so lighting them early pays off. Milk Ice Mountain, Chocolate Volcano and Amber Syrup Lake are well covered; Fuzzy Village has none
+- **Camp and Fuzzy Village** are hub areas rather than runs. Their chests are static scenery pickups, not part of a region clear
+- **Golden Pig Hiding Spot** lists where the Puffyhog runs to during the catch event, not where it starts. They cluster in tight groups, so knowing one spot usually tells you where the next two are
 
 ## Caveats
 
-- Whether a chest is *present* in a given run still depends on region, round and difficulty state — a listed coordinate is a place a chest can be, not a guarantee for every run.
-- Round variants (the same spot re-used across later rounds) are listed once.
-- The counts cover every spot in a region, which is why they run higher than what a single run through it will show you.
+- Whether a chest is *present* in a given run still depends on region, round and difficulty state — a listed coordinate is a place a chest can be, not a guarantee for every run
+- Round variants (the same spot re-used across later rounds) are listed once
+- The counts cover every spot in a region, which is why they run higher than what a single run through it will show you
