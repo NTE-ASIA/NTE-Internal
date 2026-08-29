@@ -1,8 +1,8 @@
 # Vending Machines
 
-441 vending machines, in six kinds. `vending machine.txt` lists them all by area without telling the kinds apart, so this is the key to what each one sells.
+441 vending machines, in six kinds `vending machine.txt` lists them all by area without telling the kinds apart, so this is the key to what each one sells
 
-One section of that file is labelled `Interior` instead of an area: those 25 machines sit inside instanced spaces — shops, buildings and event maps — rather than out on the street.
+One section of that file is labelled `Interior` instead of an area: those 25 machines sit inside instanced spaces — shops, buildings and event maps — rather than out on the street
 
 | Machine | Count | Items |
 | --- | ---: | ---: |
@@ -75,4 +75,4 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Tomato 100 Jelly |
 | Tomato 100 Milkshake |
 
-Tomato 100 Jelly fills two of this machine's five slots: the ordinary snack and a quest version carried as an item for "Tomato Jelly Rampage: Live Report!". The quest "Tomato Jelly! So Good!" also asks you to buy jelly, and has its own dedicated machine placed for it.
+Tomato 100 Jelly fills two of this machine's five slots: the ordinary snack and a quest version carried as an item for "Tomato Jelly Rampage: Live Report!" The quest "Tomato Jelly! So Good!" also asks you to buy jelly, and has its own dedicated machine placed for it
