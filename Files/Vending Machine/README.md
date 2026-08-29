@@ -1,10 +1,6 @@
 # Vending Machines
 
-**441 vending machines** across the open world. Every one is a shop you can buy from on the spot — walk up, interact, pick a drink or a snack. `vending machine.txt` lists all 441, grouped by area.
-
-There are six kinds of machine and each kind carries a fixed stock list. The coordinate file does not tell them apart, so treat this page as the key to what you will find when you get there.
-
-## The six machines
+441 vending machines, in six kinds. `vending machine.txt` lists them all by area without telling the kinds apart, so this is the key to what each one sells.
 
 | Machine | Count | Items |
 | --- | ---: | ---: |
@@ -12,14 +8,10 @@ There are six kinds of machine and each kind carries a fixed stock list. The coo
 | Vending Machine (mixed) | 111 | 6 |
 | Gubichi Vending Machine | 100 | 6 |
 | Bob's Vending Machine | 88 | 5 |
-| Tomato 100 Vending Machine | 15 | 5 |
+| Tomato 100 Vending Machine | 15 | 4 |
 | Puka Vending Machine | 4 | 6 |
 
-The mixed machine is the only one that carries more than one brand — drinks, bread and a snack. The other five are single-brand: fizzy drinks, crisps, tea and juice, chocolate, and tomato products respectively.
-
-## What each one sells
-
-### Vending Machine — the mixed one (111 machines)
+## Vending Machine (mixed)
 
 | Item |
 | --- |
@@ -30,9 +22,7 @@ The mixed machine is the only one that carries more than one brand — drinks, b
 | Sakai Melon Bread |
 | Cool-lala Spicy Snack |
 
-Three drinks, two breads and a spicy snack. The only machine that stocks food you can eat as a meal.
-
-### Refresh (123 machines)
+## Refresh
 
 | Item |
 | --- |
@@ -42,9 +32,7 @@ Three drinks, two breads and a spicy snack. The only machine that stocks food yo
 | Refreshing Glacier |
 | Refreshing Mystery |
 
-Carbonated drinks only. The most common machine in the city.
-
-### Gubichi (100 machines)
+## Gubichi
 
 | Item |
 | --- |
@@ -55,9 +43,7 @@ Carbonated drinks only. The most common machine in the city.
 | Crave Bites! Chocolate Flavor |
 | Gubicrisp |
 
-Crisps and biscuits. No drinks at all.
-
-### Bob's (88 machines)
+## Bob's
 
 | Item |
 | --- |
@@ -67,9 +53,7 @@ Crisps and biscuits. No drinks at all.
 | Bob's Surprise Orchard |
 | Bob's Sunshine Ranch |
 
-Tea, juice and a milk drink.
-
-### Puka (4 machines)
+## Puka
 
 | Item |
 | --- |
@@ -80,9 +64,7 @@ Tea, juice and a milk drink.
 | Puka Sweet Dreams Marshmallow |
 | Puka Lucky Star |
 
-Chocolate and sweets. **Only four of these exist in the whole world.** Nothing on this list can be bought anywhere else.
-
-### Tomato 100 (15 machines)
+## Tomato 100
 
 | Item |
 | --- |
@@ -90,32 +72,3 @@ Chocolate and sweets. **Only four of these exist in the whole world.** Nothing o
 | Tomato 100 Juice |
 | Tomato 100 Jelly |
 | Tomato 100 Milkshake |
-
-Tomato products only. The jelly is also a quest item, so this machine is worth remembering.
-
-## Where they are
-
-| Area | Machines |
-| --- | ---: |
-| New Herland District | 160 |
-| Miguel District | 80 |
-| Bridge Crossings | 75 |
-| Illusion Town | 74 |
-| Interior | 25 |
-| Duskmoor | 22 |
-| Unheard Shores | 3 |
-| Sunni Island | 2 |
-
-`Interior` covers machines inside instanced spaces — shops, buildings and event maps — rather than out on the street.
-
-New Herland District has more machines than any other area by a wide margin. Unheard Shores and Sunni Island have almost none, so stock up before heading out there.
-
-## Taygedo's Vending Machine
-
-A seventh machine exists that is not part of the street set. It stocks four items called Delivered Gift I to IV rather than food, and it is tied to Taygedo rather than to a brand. It is not one of the 441 and has no entry in the coordinate file.
-
-## Notes
-
-- A machine's stock is fixed by its kind. The same machine always sells the same list wherever you find it.
-- The mixed machine and Refresh between them account for more than half of all machines, so those two lists are what you will mostly be buying from.
-- Puka and Tomato 100 are the rare ones — 4 and 15 machines against 88 or more for everything else.
