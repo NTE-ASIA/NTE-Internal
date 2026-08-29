@@ -44,12 +44,12 @@ Every region except Camp and Fuzzy Village clears the "open 10 chests in this re
 
 ## What to expect
 
-- **Tiers** Common to Valuable to Rare is the loot ladder. Rare chests are the ones worth a detour; Crimson Castle carries the most of them (15), Chocolate Volcano is next (14)
-- **Mysterious Chest** Roll the dice to decide the reward. Seven per region in Volcano, Snow, Lake and Castle; only two in Fuzzy Village; none at Camp
-- **Trap Chest** Opening it seals the area and spawns a wave. Six of the ten sit inside Crimson Castle, so treat unattended chests there with suspicion
-- **Bonfires** are the hub of a run: rest, identify and salvage gear, reach the Warehouse, and respawn there after a defeat. Once lit, a bonfire also becomes a fast-travel target on the map, so lighting them early pays off. Milk Ice Mountain, Chocolate Volcano and Amber Syrup Lake are well covered; Fuzzy Village has none
-- **Camp and Fuzzy Village** are hub areas rather than runs. Their chests are static scenery pickups, not part of a region clear
-- **Golden Pig Hiding Spot** lists where the Puffyhog runs to during the catch event, not where it starts. They cluster in tight groups, so knowing one spot usually tells you where the next two are
+- **Tiers** Common to Valuable to Rare is the loot ladder Rare chests are the ones worth a detour; Crimson Castle carries the most of them (15), Chocolate Volcano is next (14)
+- **Mysterious Chest** Roll the dice to decide the reward Seven per region in Volcano, Snow, Lake and Castle; only two in Fuzzy Village; none at Camp
+- **Trap Chest** Opening it seals the area and spawns a wave Six of the ten sit inside Crimson Castle, so treat unattended chests there with suspicion
+- **Bonfires** are the hub of a run: rest, identify and salvage gear, reach the Warehouse, and respawn there after a defeat Once lit, a bonfire also becomes a fast-travel target on the map, so lighting them early pays off Milk Ice Mountain, Chocolate Volcano and Amber Syrup Lake are well covered; Fuzzy Village has none
+- **Camp and Fuzzy Village** are hub areas rather than runs Their chests are static scenery pickups, not part of a region clear
+- **Golden Pig Hiding Spot** lists where the Puffyhog runs to during the catch event, not where it starts They cluster in tight groups, so knowing one spot usually tells you where the next two are
 
 ## Caveats
 
