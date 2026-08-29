@@ -1,21 +1,29 @@
 # Vending Machines
 
-441 vending machines, in six kinds `vending machine.txt` lists them all by area without telling the kinds apart, so this is the key to what each one sells
+Coordinate and inventory reference for **441 vending machines** across six machine types
 
-One section of that file is labelled `Interior` instead of an area: those 25 machines sit inside instanced spaces — shops, buildings and event maps — rather than out on the street
+`vending machine.txt` contains every vending machine location grouped by area, while this README shows the machine types and what each one sells
+
+## Overview
 
 | Machine | Count | Items |
 | --- | ---: | ---: |
 | Refresh Vending Machine | 123 | 5 |
-| Vending Machine (mixed) | 111 | 6 |
+| Vending Machine | 111 | 6 |
 | Gubichi Vending Machine | 100 | 6 |
 | Bob's Vending Machine | 88 | 5 |
 | Tomato 100 Vending Machine | 15 | 4 |
 | Puka Vending Machine | 4 | 6 |
 
+## Interior Locations
+
+The `Interior` section in `vending machine.txt` contains **25 machines** located inside instanced areas such as shops, buildings, and event maps
+
+These are separate from normal street locations
+
 ## Vending Machine
 
-| Item |
+| Items |
 | --- |
 | Apex |
 | TeaRealm T-Fusion |
@@ -24,9 +32,9 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Sakai Melon Bread |
 | Cool-lala Spicy Snack |
 
-## Refresh
+## Refresh Vending Machine
 
-| Item |
+| Items |
 | --- |
 | DynamiK |
 | DynamiK Zero |
@@ -34,9 +42,9 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Refreshing Glacier |
 | Refreshing Mystery |
 
-## Gubichi
+## Gubichi Vending Machine
 
-| Item |
+| Items |
 | --- |
 | Gubichi Original Flavor Chips |
 | Gubichi Cucumber Flavor Chips |
@@ -45,9 +53,9 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Crave Bites! Chocolate Flavor |
 | Gubicrisp |
 
-## Bob's
+## Bob's Vending Machine
 
-| Item |
+| Items |
 | --- |
 | Bob's Tea Garden |
 | Bob's Orange Delight |
@@ -55,9 +63,9 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Bob's Surprise Orchard |
 | Bob's Sunshine Ranch |
 
-## Puka
+## Puka Vending Machine
 
-| Item |
+| Items |
 | --- |
 | Puka Chocoa Classic Series |
 | Puka Chocoa Nutty Storm |
@@ -66,13 +74,17 @@ One section of that file is labelled `Interior` instead of an area: those 25 mac
 | Puka Sweet Dreams Marshmallow |
 | Puka Lucky Star |
 
-## Tomato 100
+## Tomato 100 Vending Machine
 
-| Item |
+| Items |
 | --- |
 | Tomato 100 |
 | Tomato 100 Juice |
 | Tomato 100 Jelly |
 | Tomato 100 Milkshake |
 
-Tomato 100 Jelly fills two of this machine's five slots: the ordinary snack and a quest version carried as an item for "Tomato Jelly Rampage: Live Report!" The quest "Tomato Jelly! So Good!" also asks you to buy jelly, and has its own dedicated machine placed for it
+## Notes
+
+- Tomato 100 Jelly occupies two of the five machine slots because the normal snack and quest item are separate entries
+- `Tomato Jelly Rampage: Live Report!` uses the quest version of Tomato 100 Jelly
+- `Tomato Jelly! So Good!` also requires buying jelly and has a dedicated machine for the quest
