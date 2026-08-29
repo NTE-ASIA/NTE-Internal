@@ -1,0 +1,11 @@
+===== [AreaID 001] Bridge Crossings (10) =====
+After School, -145945, 167103, 8205.64
+Backstreet Boxer, -81557.8, 157084, 4330.24
+C's Tower, -123900.05, 135966.19, 10657
+Case of Serial Explosion, -132650.5, 131027.57, 6989.543
+Dragon Gate Substitute, -133249, 176579, 9857
+Lightspeed Tagger, -202012.45, 215869.14, 7806.2944
+Old School Days, -86103.3, 169866, 3397.94
+Reclaim Inspiration, -115421.06, 146731.73, 9574
+Ride Assault, -103871.51, 181596.58, 5214
+Rooftop Boxer, -135576.52, 169452.31, 10478.344

@@ -1,0 +1,12 @@
+===== [AreaID 001] Bridge Crossings (11) =====
+Capturing Music, -126357.28, 176574.34, 6654.7583
+Disappearance Incident, -96141.375, 155777.53, 4760
+Flipped Phone Booth?, -123653.59, 187291.48, 6699.677
+Fluffy Incident, -81956, 163574, 3500
+Nature's Gift, -139729.12, 197924.98, 10501.902
+Rainy Night Tale, -150419.69, 163594.03, 7570.977
+Record Shop Disturbance, -83796.445, 164004.7, 3337.629
+Return, -109050, 169780, 6540
+Rookie Photographer, -78943.3, 159134.12, 3178
+Sales Pitch…?, -127150, 188923, 6612
+The Vintage Shop's Mirror, -91381.18, 162971.06, 4248.405

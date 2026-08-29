@@ -1,0 +1,7 @@
+===== [AreaID 001] Bridge Crossings (6) =====
+Bridge Crossings, -90500.0, 153050.0, 4079.5
+Bridge Crossings, -130000.0, 163210.0, 7307.0
+Bridge Crossings, -112370.0, 155230.0, 5807.0
+Bridge Crossings, -93430.0, 132595.0, 9180.0
+Bridge Crossings, -100800.5, 173865.0, 5461.5
+Bridge Crossings, -133480.0, 173650.0, 6620.0
