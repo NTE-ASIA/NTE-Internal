@@ -1,11 +1,11 @@
 # 999 Nights — Treasure & Landmark Coordinates
 
-Coordinate lists for the **999 Nights** roguelite map (Warren Continent)
+Coordinate data for the **999 Nights** roguelite map on Warren Continent
 
 ## Regions
 
 | ID | Region |
-|----|--------|
+| --- | --- |
 | 001 | Chocolate Volcano |
 | 002 | Milk Ice Mountain |
 | 003 | Amber Syrup Lake |
@@ -13,26 +13,26 @@ Coordinate lists for the **999 Nights** roguelite map (Warren Continent)
 | 005 | Camp |
 | 006 | Fuzzy Village |
 
-The six regions occupy completely separate parts of the world grid, so a coordinate alone identifies its region unambiguously
+Each region occupies a separate part of the world grid, so coordinates can be identified by region without overlap
 
 ## Files
 
-| File | Count | What it is |
-|------|-------|------------|
-| `Common Chest.txt` | 111 | Common Chest — the base loot tier |
-| `Valuable Chest.txt` | 59 | Valuable Chest — the middle loot tier |
-| `Rare Chest.txt` | 50 | Rare Chest — the top loot tier |
-| `Mysterious Chest.txt` | 30 | Mysterious Chest — roll the dice to decide the reward |
-| `Trap Chest.txt` | 10 | Bait chest that locks the room and spawns enemies |
-| `Bonfire.txt` | 48 | Bonfire — rest, identify and salvage equipment, Warehouse access, fast-travel target, respawn point after a defeat |
-| `Golden Pig Hiding Spot.txt` | 54 | Spots the Puffyhog bolts to during the catch event |
+| File | Count | Contents |
+| --- | ---: | --- |
+| `Common Chest.txt` | 111 | Common chest locations |
+| `Valuable Chest.txt` | 59 | Valuable chest locations |
+| `Rare Chest.txt` | 50 | Rare chest locations |
+| `Mysterious Chest.txt` | 30 | Mysterious chest locations |
+| `Trap Chest.txt` | 10 | Trap chest locations |
+| `bonfire.txt` | 48 | Bonfire locations |
+| `Golden Pig Hiding Spot.txt` | 54 | Puffyhog hiding locations |
 
-**260 chests in total**
+**Total chest locations: 260**
 
-## Chests per region
+## Chest Count by Region
 
 | Region | Common | Valuable | Rare | Mysterious | Trap | Total |
-|--------|-------:|---------:|-----:|-----------:|-----:|------:|
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | Chocolate Volcano | 22 | 14 | 14 | 7 | 1 | 58 |
 | Milk Ice Mountain | 33 | 10 | 12 | 7 | 0 | 62 |
 | Amber Syrup Lake | 18 | 14 | 8 | 7 | 3 | 50 |
@@ -40,19 +40,31 @@ The six regions occupy completely separate parts of the world grid, so a coordin
 | Camp | 13 | 3 | 1 | 0 | 0 | 17 |
 | Fuzzy Village | 7 | 4 | 0 | 2 | 0 | 13 |
 
-Every region except Camp and Fuzzy Village clears the "open 10 chests in this region" objective several times over
+## Chest Types
 
-## What to expect
+- **Common Chest** — base loot tier
+- **Valuable Chest** — middle loot tier
+- **Rare Chest** — highest regular loot tier
+- **Mysterious Chest** — reward is decided when opened
+- **Trap Chest** — opening it seals the area and spawns enemies
 
-- **Tiers** Common to Valuable to Rare is the loot ladder Rare chests are the ones worth a detour; Crimson Castle carries the most of them (15), Chocolate Volcano is next (14)
-- **Mysterious Chest** Roll the dice to decide the reward Seven per region in Volcano, Snow, Lake and Castle; only two in Fuzzy Village; none at Camp
-- **Trap Chest** Opening it seals the area and spawns a wave Six of the ten sit inside Crimson Castle, so treat unattended chests there with suspicion
-- **Bonfires** are the hub of a run: rest, identify and salvage gear, reach the Warehouse, and respawn there after a defeat Once lit, a bonfire also becomes a fast-travel target on the map, so lighting them early pays off Milk Ice Mountain, Chocolate Volcano and Amber Syrup Lake are well covered; Fuzzy Village has none
-- **Camp and Fuzzy Village** are hub areas rather than runs Their chests are static scenery pickups, not part of a region clear
-- **Golden Pig Hiding Spot** lists where the Puffyhog runs to during the catch event, not where it starts They cluster in tight groups, so knowing one spot usually tells you where the next two are
+Crimson Castle has the most Rare Chests with **15**, followed by Chocolate Volcano with **14**
 
-## Caveats
+## Bonfires
 
-- Whether a chest is *present* in a given run still depends on region, round and difficulty state — a listed coordinate is a place a chest can be, not a guarantee for every run
-- Round variants (the same spot re-used across later rounds) are listed once
-- The counts cover every spot in a region, which is why they run higher than what a single run through it will show you
+Bonfires can be used for rest, equipment management, Warehouse access, respawning, and fast travel after activation
+
+Milk Ice Mountain, Chocolate Volcano, and Amber Syrup Lake have multiple bonfire locations while Fuzzy Village has none
+
+## Golden Pig Hiding Spots
+
+`Golden Pig Hiding Spot.txt` contains locations the Puffyhog can run to during the catch event
+
+These are hiding locations rather than starting positions
+
+## Notes
+
+- A listed coordinate is a possible spawn location and does not guarantee the chest will appear in every run
+- Chest availability can vary by region, round, and difficulty state
+- Reused locations across round variants are listed once
+- Camp and Fuzzy Village function more like hub areas than standard run regions
