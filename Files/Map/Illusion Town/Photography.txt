@@ -1,0 +1,7 @@
+===== [AreaID 003] Illusion Town (6) =====
+Illusion Town, -150825.0, 150425.0, 6650.5
+Illusion Town, -166765.0, 111135.0, 7107.0
+Illusion Town, -152725.0, 105735.0, 7107.0
+Illusion Town, -116395.0, 67685.0, 7368.0
+Illusion Town, -135190.0, 117020.0, 6760.0
+Illusion Town, -152750.0, 135235.0, 6719.0

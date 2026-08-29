@@ -1,0 +1,23 @@
+===== [AreaID 003] Illusion Town (22) =====
+Illusion Town, -133883.95, 87773.28, 7401
+Illusion Town, -177635, 139925, 6670
+Illusion Town, -190992.78, 106092.055, 7293.229
+Illusion Town, -169741, 113990, 7106.6836
+Illusion Town, -157206, 87400, 8266
+Illusion Town, -92947, 90709.875, 6133
+Illusion Town, -88697, 78861, 4227
+Illusion Town, -103968, 50912, 8258
+Illusion Town, -124599, 58586, 8249
+Illusion Town, -135102.33, 141792.3, 6711.533
+Illusion Town, -108908.02, 79405.2, 15296.986
+Illusion Town, -138149, 132918, 6718
+Illusion Town, -156538.62, 108223.62, 7227.68
+Illusion Town, -142841.83, 128275.29, 12472.939
+Illusion Town, -180000.6, 145616.12, 9914.592
+Illusion Town, -125389.38, 96558.695, 12812.963
+Illusion Town, -184021.12, 100229.836, 12533.04
+Illusion Town, -127193, 76870, 8104
+Illusion Town, -183286.8, 124839.18, 7453.273
+Illusion Town, -114686.49, 64953.535, 8743
+Illusion Town, -129422.164, 127231.37, 6887.033
+Illusion Town, -92390.125, 98009.84, 6146.8135

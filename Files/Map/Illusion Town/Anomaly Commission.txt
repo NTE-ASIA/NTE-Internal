@@ -1,0 +1,7 @@
+===== [AreaID 003] Illusion Town (6) =====
+Lonely Player, -152506.83, 101191.07, 7409.4556
+Nightmare-Bound, -157921.9, 132830.27, 7024.935
+Prepare for Rain, -70198.1, 137958, 2882.1
+Rhythm Master, -105563.87, 94421.63, 7361
+Video Cemetery, -87909.6, 143882.7, 4150.5
+Where Is Home, -195718.44, 121657.14, 7530
