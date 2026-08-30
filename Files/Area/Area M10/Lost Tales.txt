@@ -1,0 +1,3 @@
+===== [AreaID 000] Area M10 (2) =====
+Omnic Crisis...?, 6236.245, 262842.28, 7120.949
+The Other Side of the Legend, 6336.803, 263665.25, 7351.866
