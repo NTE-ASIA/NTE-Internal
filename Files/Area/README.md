@@ -40,7 +40,7 @@ Everything else starts whenever you get there
 Cannot be closed in one sitting
 
 - Broken Machine's Generosity - 1 day
-- Omnic Crisis...? - 1 day
+- Omnic Crisis…? - 1 day
 - Pets' Secret Cafeteria - 3 days
 
 ## Walkthroughs
@@ -173,7 +173,7 @@ Nanally required
 - Switch to Nanally
 - Talk again
 
-### Omnic Crisis...?
+### Omnic Crisis…?
 Area M10 / working robot by the phone booth inside the Bureau
 
 - Restart it
