@@ -6,14 +6,25 @@ Some shops carry goods you can take without paying. Picking one up starts a shor
 
 `Shoplifting Store.txt` lists 20 store locations across four districts.
 
-| Store | Locations | Goods |
-|---|---:|---|
-| 2-Four Convenience Store | 4 | Refreshing Fruity, Refreshing Glacier, Gubichi Original Flavor Chips, Gubichi Cucumber Flavor Chips, Crave Bites! Milk Flavor, Crave Bites! Chocolate Flavor |
-| Alice's Bakery | 4 | Bread |
-| Bamboo Pharmacy | 4 | Cooly Cool Refresher, Purification Guard Lozenges, Blink! Wink Battle!, Great Defender!, Zhu! Vitamin! |
-| DSD POP | 3 | Asahi Inori - Cobalt |
-| Akratos - Coffee Bean Shop | 3 | 9°C Coffee Beans |
-| Puka Candy | 2 | Chocolate |
+| Store | Locations | Goods | Price |
+|---|---:|---|---:|
+| 2-Four Convenience Store | 4 | Refreshing Fruity | 480 |
+| | | Refreshing Glacier | 480 |
+| | | Gubichi Original Flavor Chips | 360 |
+| | | Gubichi Cucumber Flavor Chips | 360 |
+| | | Crave Bites! Milk Flavor | 360 |
+| | | Crave Bites! Chocolate Flavor | 360 |
+| Bamboo Pharmacy | 4 | Great Defender! | 1800 |
+| | | Zhu! Vitamin! | 750 |
+| | | Cooly Cool Refresher | 600 |
+| | | Blink! Wink Battle! | 600 |
+| | | Purification Guard Lozenges | 420 |
+| DSD POP | 3 | Asahi Inori - Cobalt | 45000 |
+| Alice's Bakery | 4 | Bread | not sold |
+| Akratos - Coffee Bean Shop | 3 | 9°C Coffee Beans | not sold |
+| Puka Candy | 2 | Chocolate | not sold |
+
+Prices are in Fons and are what the store charges if you decide to pay. The DSD POP figure is worth more than every other stealable item in the game put together, and it is the only one over 2000. Items marked "not sold" have no shop entry, so there is no price attached to them.
 
 Bridge Crossings has 5 of these stores, Illusion Town 3, Miguel District 7, New Herland District 5. Unheard Shores, Duskmoor and Sunni Island have none.
 
@@ -25,6 +36,8 @@ Fresh food stalls also carry stealable goods, but they are not named in the stor
 | Fruit | 4 |
 | Vegetables | 4 |
 | Meat | 4 |
+
+None of the stall goods are sold over a counter, so they carry no price either.
 
 ## Goods pickup points
 
