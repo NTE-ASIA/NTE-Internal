@@ -1,0 +1,8 @@
+===== [AreaID 003] Illusion Town (7) =====
+Demon's Shadow, -147775, 97830, 7460
+Honest Body, Lying Lips, -167736.98, 106869.875, 7154.36
+Non-Intrusive Documentation, -151210, 151920, 6650
+Pets' Secret Cafeteria, -152794.3, 140701.23, 6716.017
+The Dart's Fantastic Journey, -149493.58, 121211.53, 6478.566
+Vehicle Destroyer, -101892.14, 93486.65, 6786.524
+World Changer, -156920.81, 105396.766, 7105.5845
