@@ -1,107 +1,238 @@
 # Lost Tales
 
-Lost Tales are hidden quests that never appear in the quest log. Nothing marks them on the map until the witch points one out, and once you are standing on the spot there is no objective text telling you what to do. Several of them only exist inside a narrow window of the day, so the coordinates on their own are not enough.
+Hidden quests
+Never listed in the quest log
+No objective text once you arrive
+Many only exist inside a narrow window of the day so the coordinate alone is not enough
 
-Blackbird at the Witch's House reveals one location per day. Pick "Lost Tales" from her divination menu. One reading does not cover a whole tale - the longer ones run across several spots and you are sent to them one at a time.
+Blackbird at the Witch's House reveals one location per day
+Divination menu > Lost Tales
+One reading covers one spot only
+The longer tales are handed out a spot at a time
 
-Two things break a tale for the rest of the day:
+Two ways to lose a tale for the rest of the day
 
-- Skipping dialogue can leave a stage stuck. Let the lines play out.
-- Do not kill an Anomaly a tale asks you to photograph. It will not respawn for a full day.
+- Skipping dialogue can stick a stage
+- Killing an Anomaly you were told to photograph blocks it for a full day
 
-## Gating conditions
-
-Everything that needs more than walking to the coordinate.
+## Gating
 
 | Tale | Area | Window | Also needs |
 |---|---|---|---|
-| Demon's Shadow | Illusion Town | Students 08:00-18:00, shadow 00:00-05:00 | |
+| Demon's Shadow | Illusion Town | students 08:00-18:00 / shadow 00:00-05:00 | |
 | The Dart's Fantastic Journey | Illusion Town | 16:00-20:00 | |
 | A Pack of Spicy Sticks Promise | Bridge Crossings | 08:00-15:00 | |
 | Next Time for Sure! | Bridge Crossings | 07:00-20:00 | |
 | The Devoured Melody | Unheard Shores | 08:00-20:00 | |
 | Honest Body, Lying Lips | Illusion Town | 06:00-23:00 | |
 | Witness Journal | Bridge Crossings | 06:00-18:00 | |
-| Vehicle Destroyer | Illusion Town | 13:00-17:00 for the delivery, 06:00-20:00 for the park | |
-| Photo Op with Anomalies | Miguel District | Around 10:00-11:00 | |
-| Non-Intrusive Documentation | Illusion Town | Daytime | Clear weather |
-| World Changer | Unheard Shores, Bridge Crossings, Illusion Town | Daytime | Clear weather, Day Off Arc |
-| Talkative Old Man | New Herland District | Morning | Clear weather |
-| Gangster Dreams | Bridge Crossings | Afternoon | Nanally |
+| Vehicle Destroyer | Illusion Town | delivery 13:00-17:00 / park 06:00-20:00 | |
+| Photo Op with Anomalies | Miguel District | around 10:00-11:00 | |
+| Non-Intrusive Documentation | Illusion Town | daytime | clear weather |
+| World Changer | Unheard Shores + Bridge Crossings + Illusion Town | daytime | clear weather / Day Off Arc |
+| Talkative Old Man | New Herland District | morning | clear weather |
+| Gangster Dreams | Bridge Crossings | afternoon | Nanally |
 | Anomaly Tracker (Self-Proclaimed) | Unheard Shores | | Skia |
 | The Other Side of the Legend | Area M10 | | Nanally |
 
-The rest can be started whenever you reach them.
+Everything else starts whenever you get there
 
-Three tales cannot be finished in one sitting no matter what. Broken Machine's Generosity and Omnic Crisis...? both need a day to pass before the payoff. Pets' Secret Cafeteria needs three.
+Cannot be closed in one sitting
+
+- Broken Machine's Generosity - 1 day
+- Omnic Crisis...? - 1 day
+- Pets' Secret Cafeteria - 3 days
 
 ## Walkthroughs
 
 ### Demon's Shadow
-Illusion Town, Clement Academy. The hardest one to line up, because the two halves want opposite times of day. Get in over the north fence and use the north entrance. Between 08:00 and 18:00 three students stand in the corridor outside the occult club room - talk to all three, twice. Then push the clock to between 00:00 and 05:00 and go up onto the roof of the north building. Turn off the light next to the shadow, then examine it.
+Illusion Town / Clement Academy
+The two halves want opposite times of day so this is the worst one to line up
+
+- In over the north fence then through the north entrance
+- 08:00-18:00 three students in the corridor outside the occult club room - talk to all three twice
+- Push the clock to 00:00-05:00
+- Roof of the north building
+- Kill the light next to the shadow then examine the shadow
 
 ### World Changer
-Starts in Unheard Shores at the Orichalcos Imaginist by Wertheimer Tower. A boy there says he wants to see a solar eclipse. You need the Day Off Arc equipped and its Eclipse skill used near him, in clear weather during the day. The tale continues at four more places - a street and a bridge top in Bridge Crossings, a stretch of coast, and a school in Illusion Town. Its final stage is what hands out the Day Off Arc, so where the Arc first reaches you is not spelled out in the data.
+Unheard Shores / Orichalcos Imaginist by Wertheimer Tower
+Boy wants to see a solar eclipse
+
+- Day Off Arc equipped
+- Clear weather and daytime
+- Use the Arc's Eclipse skill near him
+- Four more spots follow - a street and a bridge top in Bridge Crossings / a stretch of coast / a school in Illusion Town
+
+The final stage is what awards the Day Off Arc so the data does not say where the Arc first reaches you
 
 ### The Dart's Fantastic Journey
-Illusion Town, the basement of the StarSign live house. Between 16:00 and 20:00 a careless girl stands by the dart board - after 20:00 the live set starts and she is gone. She has lost her dart. Fish it out of the bin and hand it back.
+Illusion Town / StarSign live house basement
+16:00-20:00 only - the live set starts at 20:00 and she leaves
+
+- Careless girl by the dart board
+- Her dart is in the bin
+- Hand it back
 
 ### A Pack of Spicy Sticks Promise
-Bridge Crossings, the vending machine by the basketball court, 08:00-15:00. A hungry boy waits there. Buy the spicy stick snack and give it to him.
+Bridge Crossings / vending machine by the basketball court
+08:00-15:00
+
+- Hungry boy
+- Buy the spicy stick snack
+- Give it to him
 
 ### Next Time for Sure!
-Bridge Crossings, near the east end of Bluebeard Road, northeast of the Security Office, 07:00-20:00. A manga editor is hammering on a front door. Get him to leave, wait, then go inside and talk to the artist.
+Bridge Crossings / east end of Bluebeard Road northeast of the Security Office
+07:00-20:00
+
+- Manga editor hammering on a door
+- Make him leave then wait
+- Go inside and talk to the artist
 
 ### The Devoured Melody
-Unheard Shores, Bluegaze Campground, manager present 08:00-20:00. He has lost a guitar. Go to the second floor of Eibon, talk to Kirohmaru, pick the guitar up and bring it back.
+Unheard Shores / Bluegaze Campground
+Manager present 08:00-20:00
+
+- He lost a guitar
+- Eibon second floor - talk to Kirohmaru
+- Pick the guitar up and bring it back
 
 ### Honest Body, Lying Lips
-Illusion Town, a bench east of Wertheimer Tower, 06:00-23:00. Switch the radio on and change the channel twice while the old man pretends not to care. Then find him again at the Fiscus Avenue intersection.
+Illusion Town / bench east of Wertheimer Tower
+06:00-23:00
+
+- Switch the radio on
+- Change the channel twice while the old man pretends not to care
+- Find him again at the Fiscus Avenue intersection
 
 ### Witness Journal
-Two separate starts, both in Bridge Crossings, both 06:00-18:00 - a couple in the plaza and a traveler on the eastern coast road. Each wants a photo. Shoot them from the front and show it to them.
+Bridge Crossings / two separate starts
+06:00-18:00
+
+- Couple in the plaza
+- Traveler on the eastern coast road
+- Shoot each from the front and show them the photo
 
 ### Vehicle Destroyer
-Illusion Town, by the overturned car near where the rhythm-game boss appears. Talk to the anxious passerby, then deliver documents to the convenience store between 13:00 and 17:00. He turns up next at the phone booth plaza, then on the west side, then two men wait in the park between 06:00 and 20:00. Finish by checking the treatment office mail.
+Illusion Town / overturned car near where the rhythm-game boss appears
+
+- Talk to the anxious passerby
+- Deliver documents to the convenience store 13:00-17:00
+- He shows up at the phone booth plaza
+- Then on the west side
+- Two men in the park 06:00-20:00
+- Check the treatment office mail
 
 ### Non-Intrusive Documentation
-Starts at the station in Unheard Shores, clear weather, daytime. Pick up the Oracle Stone there and talk to the bird enthusiast. He moves to the campground entrance and then to Nacupeda's Pool in Illusion Town. At each spot keep quiet - loud noises scare the birds and reset the stage.
+Unheard Shores station / clear weather / daytime
+
+- Grab the Oracle Stone there and talk to the bird enthusiast
+- He moves to the campground entrance
+- Then to Nacupeda's Pool in Illusion Town
+- Stay quiet at every spot - noise scares the birds and resets the stage
 
 ### Photo Op with Anomalies
-Miguel District, a photographer under the tree near the sitting kids, around 10:00-11:00. Three rounds of the same thing: photograph the Anomaly in the tree and report back, then the vending machine Anomaly by the phone booth stairs, then the carp Anomaly in the cherry blossom area. Do not fight any of them.
+Miguel District / photographer under the tree near the sitting kids
+Around 10:00-11:00
+Do not fight any of the targets
+
+- Anomaly in the tree then report back
+- Vending machine Anomaly by the phone booth stairs
+- Carp Anomaly in the cherry blossom area
 
 ### Talkative Old Man
-New Herland District, the back alley off Flamenco Avenue, morning, clear weather. He complains about the fly posting. Strip every advertisement off the walls including the ones out of easy reach, then talk to him again at the railing.
+New Herland District / back alley off Flamenco Avenue
+Morning and clear weather
+
+- He complains about the fly posting
+- Strip every advertisement off the walls including the high ones
+- Talk to him again at the railing
 
 ### Anomaly Tracker (Self-Proclaimed)
-Unheard Shores. A girl on the coast is convinced something is riding the trains. Talk to her, go to the station, board a departing train, and use Skia's skill as the train passes the coast.
+Unheard Shores / girl on the coast
+Skia required
+
+- She thinks something rides the trains
+- Board a departing train at the station
+- Use Skia's skill as it passes the coast
 
 ### Gangster Dreams
-Bridge Crossings, the shop on the south side of the Mizuki Avenue and Torch Street crossing, afternoon. Talk to the Q3 shopkeeper, switch to Nanally, talk to her again.
+Bridge Crossings / shop south of the Mizuki Avenue and Torch Street crossing
+Afternoon / Nanally required
+
+- Talk to the Q3 shopkeeper
+- Switch to Nanally
+- Talk again
 
 ### The Other Side of the Legend
-Area M10, the Bureau of Anomaly Control service window. Talk to the anxious resident, switch to Nanally, talk again.
+Area M10 / Bureau of Anomaly Control service window
+Nanally required
+
+- Talk to the anxious resident
+- Switch to Nanally
+- Talk again
 
 ### Omnic Crisis...?
-Area M10, the working robot by the phone booth inside the Bureau. Restart it and watch it pick a fight with another robot. Come back a day later to see it back at its post.
+Area M10 / working robot by the phone booth inside the Bureau
+
+- Restart it
+- Watch it pick a fight with another robot
+- Come back a day later
 
 ### Multi-Location Check-in Expert
-Bridge Crossings, Hazekura crouching at the roadside near the Tikal Bridge Branch Security Office. He asks for recommendations. Pick three shops from the list, then visit each of them the next day. Finish by recommending the Eibon antique shop and talking to him once more.
+Bridge Crossings / Hazekura crouching at the roadside near the Tikal Bridge Branch Security Office
+
+- Pick three shops from his list
+- Visit each of them the next day
+- Recommend the Eibon antique shop
+- Talk to him once more
 
 ### Broken Machine's Generosity
-Bridge Crossings, the red vending machine in the alley on Hankaku Street near DSD POP. Inspect it, hit it three times, come back the next day.
+Bridge Crossings / red vending machine in the alley on Hankaku Street near DSD POP
+
+- Inspect it
+- Hit it three times
+- Come back the next day
 
 ### Fake Car Owner Chronicles
-Bridge Crossings, the racing garage near the Unheard Shores border. A car designer is stuck. Show him a vehicle, then a sports car, then a G3 to finish.
+Bridge Crossings / racing garage near the Unheard Shores border
+
+- Show the car designer a vehicle
+- Then a sports car
+- Then a G3
 
 ### Pets' Secret Cafeteria
-Illusion Town, the alley behind the pet shop south of Onion Head Street. Feed the stray dog and the stray cat. Six hours later more animals have shown up. It takes three days in total to close out.
+Illusion Town / alley behind the pet shop south of Onion Head Street
+
+- Feed the stray dog and the stray cat
+- Six hours later more animals turn up
+- Three days total
 
 ### Sprightly Grandfather
-Miguel District, near Caltrop Lake. He challenges you to a race. Keep up with him the whole way, then talk to him at the finish.
+Miguel District / near Caltrop Lake
+
+- He challenges you to a race
+- Keep up the whole way
+- Talk to him at the finish
 
 ### Danzaburou Will Never Be Enslaved!
-Four separate encounters, two in Bridge Crossings and two in Unheard Shores - a bonfire, a bridge, an auto repair shop and the racing garage. Each time the tanuki is wearing a human face. Follow him until the disguise drops, then beat what he turns into. All four have to be done for the tale to close.
+Four encounters - two in Bridge Crossings and two in Unheard Shores
+Bonfire / bridge / auto repair shop / racing garage
 
-### R0090101
-Sunni Island. A pirate captain, and the only Lost Tale with no name and no walkthrough anywhere. Only the first of its seven stages is placed in the world, and three of the seven have no spawn condition asset, so the chain looks unfinished in this build.
+- The tanuki is wearing a human face each time
+- Follow him until the disguise drops
+- Beat what he turns into
+- All four are needed to close the tale
+
+### On the Sea Breeze…
+Sunni Island / wrecked ship on the shore
+Great Jerry - a ghost pirate only you can see
+
+- He lost his blade the night he was cut down
+- Three clues he overheard from two anglers - rusty blade / an exhibit / fishing tournament
+- Recover the Brittle Rusted Blade and throw it into the blue bonfire beside him so he can take it
+- His crew then weighs anchor and the wreck sails
+
+Filed under Strange Tales rather than Lost Tales in the data - its coordinate is the same point as Sunni Island Strange Tales entry 1
+Only the first of its seven stages is placed in the world and three of the seven have no spawn condition asset so the chain looks unfinished in this build
